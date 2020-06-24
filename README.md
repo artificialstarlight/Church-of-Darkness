@@ -1,4 +1,4 @@
-#Church of Darkness
+# Church of Darkness
 
 Church of Darkness is a WIP occult horror text adventure meant to be played in the
   terminal of Linux systems.

@@ -125,6 +125,17 @@ def burnedout():
 
 def ch1():
     os.system('clear')
+    print(color.PURPLE + """
+Welcome to Church of Darkness.
+Game created by artificialstarlight, ported to binary by fm'latghor.
+Content licensed under CC BY-NC-SA 4.0, source code licensed under the
+MIT license.
+
+   Press ENTER to continue.
+            """
+          )
+    pressenter = input()
+    os.system('clear')
     print("It's dark.")
     pressenter = input()
     print("You can type 'help'...")

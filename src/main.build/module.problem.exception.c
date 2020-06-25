@@ -66,10 +66,10 @@ static bool constants_created = false;
 
 /* Function to create module private constants. */
 static void createModuleConstants(void) {
-    const_str_digest_c0d81614d5649c44b92789d8067a89e4 = UNSTREAM_STRING_ASCII(&constant_bin[ 78888 ], 55, 0);
-    const_str_digest_bee932220404a0d6d16451c5d76caea9 = UNSTREAM_STRING_ASCII(&constant_bin[ 78943 ], 26, 0);
-    const_str_plain_UnavailableSource = UNSTREAM_STRING_ASCII(&constant_bin[ 78969 ], 17, 1);
-    const_str_digest_2eaf9b251885e997348baaf55bbf0533 = UNSTREAM_STRING_ASCII(&constant_bin[ 78951 ], 17, 0);
+    const_str_digest_c0d81614d5649c44b92789d8067a89e4 = UNSTREAM_STRING_ASCII(&constant_bin[ 79828 ], 55, 0);
+    const_str_digest_bee932220404a0d6d16451c5d76caea9 = UNSTREAM_STRING_ASCII(&constant_bin[ 79883 ], 26, 0);
+    const_str_plain_UnavailableSource = UNSTREAM_STRING_ASCII(&constant_bin[ 79909 ], 17, 1);
+    const_str_digest_2eaf9b251885e997348baaf55bbf0533 = UNSTREAM_STRING_ASCII(&constant_bin[ 79891 ], 17, 0);
 
     constants_created = true;
 }

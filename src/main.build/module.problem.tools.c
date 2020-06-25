@@ -72,16 +72,16 @@ static bool constants_created = false;
 
 /* Function to create module private constants. */
 static void createModuleConstants(void) {
-    const_str_plain_values = UNSTREAM_STRING_ASCII(&constant_bin[ 59487 ], 6, 1);
-    const_str_plain_class_name = UNSTREAM_STRING_ASCII(&constant_bin[ 80369 ], 10, 1);
-    const_str_digest_7a918a456510940175501a87eb0a48cb = UNSTREAM_STRING_ASCII(&constant_bin[ 80379 ], 51, 0);
-    const_str_plain_capitalize = UNSTREAM_STRING_ASCII(&constant_bin[ 80430 ], 10, 1);
-    const_str_plain_probdir = UNSTREAM_STRING_ASCII(&constant_bin[ 80440 ], 7, 1);
-    const_str_digest_499979b635b7c845abd599857a0e57d4 = UNSTREAM_STRING_ASCII(&constant_bin[ 80447 ], 22, 0);
+    const_str_plain_values = UNSTREAM_STRING_ASCII(&constant_bin[ 60427 ], 6, 1);
+    const_str_plain_class_name = UNSTREAM_STRING_ASCII(&constant_bin[ 81309 ], 10, 1);
+    const_str_digest_7a918a456510940175501a87eb0a48cb = UNSTREAM_STRING_ASCII(&constant_bin[ 81319 ], 51, 0);
+    const_str_plain_capitalize = UNSTREAM_STRING_ASCII(&constant_bin[ 81370 ], 10, 1);
+    const_str_plain_probdir = UNSTREAM_STRING_ASCII(&constant_bin[ 81380 ], 7, 1);
+    const_str_digest_499979b635b7c845abd599857a0e57d4 = UNSTREAM_STRING_ASCII(&constant_bin[ 81387 ], 22, 0);
     const_tuple_d1d8fb94505c5290365af41c2389814a_tuple = PyTuple_New(7);
     PyTuple_SET_ITEM(const_tuple_d1d8fb94505c5290365af41c2389814a_tuple, 0, const_str_plain_probdir); Py_INCREF(const_str_plain_probdir);
     PyTuple_SET_ITEM(const_tuple_d1d8fb94505c5290365af41c2389814a_tuple, 1, const_str_plain_proxy); Py_INCREF(const_str_plain_proxy);
-    const_str_plain_by_typ = UNSTREAM_STRING_ASCII(&constant_bin[ 80469 ], 6, 1);
+    const_str_plain_by_typ = UNSTREAM_STRING_ASCII(&constant_bin[ 81409 ], 6, 1);
     PyTuple_SET_ITEM(const_tuple_d1d8fb94505c5290365af41c2389814a_tuple, 2, const_str_plain_by_typ); Py_INCREF(const_str_plain_by_typ);
     PyTuple_SET_ITEM(const_tuple_d1d8fb94505c5290365af41c2389814a_tuple, 3, const_str_plain_typ); Py_INCREF(const_str_plain_typ);
     PyTuple_SET_ITEM(const_tuple_d1d8fb94505c5290365af41c2389814a_tuple, 4, const_str_plain_reason); Py_INCREF(const_str_plain_reason);
@@ -197,7 +197,7 @@ static PyObject *impl_problem$tools$$$function_1_problemify(struct Nuitka_Functi
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 8605 ], 29, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 8782 ], 29, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -242,7 +242,7 @@ static PyObject *impl_problem$tools$$$function_1_problemify(struct Nuitka_Functi
             Py_DECREF(tmp_args_element_name_1);
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 8605 ], 29, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 8782 ], 29, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -472,7 +472,7 @@ static PyObject *impl_problem$tools$$$function_1_problemify(struct Nuitka_Functi
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 8605 ], 29, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 8782 ], 29, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);

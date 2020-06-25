@@ -62,12 +62,12 @@ static bool constants_created = false;
 
 /* Function to create module private constants. */
 static void createModuleConstants(void) {
-    const_str_digest_11279d5367e137b7da36522eb611bba4 = UNSTREAM_STRING_ASCII(&constant_bin[ 82900 ], 54, 0);
-    const_str_digest_6702dfb42467019d7745f99d1750586a = UNSTREAM_STRING_ASCII(&constant_bin[ 82954 ], 16, 0);
+    const_str_digest_11279d5367e137b7da36522eb611bba4 = UNSTREAM_STRING_ASCII(&constant_bin[ 83840 ], 54, 0);
+    const_str_digest_6702dfb42467019d7745f99d1750586a = UNSTREAM_STRING_ASCII(&constant_bin[ 83894 ], 16, 0);
     const_tuple_str_plain_TextIO_tuple_empty_tuple = PyTuple_New(2);
     PyTuple_SET_ITEM(const_tuple_str_plain_TextIO_tuple_empty_tuple, 0, const_str_plain_TextIO); Py_INCREF(const_str_plain_TextIO);
     PyTuple_SET_ITEM(const_tuple_str_plain_TextIO_tuple_empty_tuple, 1, const_tuple_empty); Py_INCREF(const_tuple_empty);
-    const_str_digest_960fa03cb837af7eefb9f9569c955f0d = UNSTREAM_STRING_ASCII(&constant_bin[ 82970 ], 25, 0);
+    const_str_digest_960fa03cb837af7eefb9f9569c955f0d = UNSTREAM_STRING_ASCII(&constant_bin[ 83910 ], 25, 0);
 
     constants_created = true;
 }

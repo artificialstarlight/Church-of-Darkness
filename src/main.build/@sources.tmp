@@ -3,6 +3,7 @@
 "./module.__internal__.o"
 "./module.__main__.o"
 "./module.abrt_exception_handler3.o"
+"./module.commands.o"
 "./module.dbus._compat.o"
 "./module.dbus._dbus.o"
 "./module.dbus._expat_introspect_parser.o"

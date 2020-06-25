@@ -56,9 +56,9 @@ static bool constants_created = false;
 
 /* Function to create module private constants. */
 static void createModuleConstants(void) {
-    const_str_plain_major = UNSTREAM_STRING_ASCII(&constant_bin[ 26451 ], 5, 1);
-    const_str_digest_7821f957cdb6b4e4f75d8870366ca8f7 = UNSTREAM_STRING_ASCII(&constant_bin[ 26456 ], 50, 0);
-    const_str_digest_8ef93c92c5f75aac441373814f070057 = UNSTREAM_STRING_ASCII(&constant_bin[ 26506 ], 21, 0);
+    const_str_plain_major = UNSTREAM_STRING_ASCII(&constant_bin[ 27391 ], 5, 1);
+    const_str_digest_7821f957cdb6b4e4f75d8870366ca8f7 = UNSTREAM_STRING_ASCII(&constant_bin[ 27396 ], 50, 0);
+    const_str_digest_8ef93c92c5f75aac441373814f070057 = UNSTREAM_STRING_ASCII(&constant_bin[ 27446 ], 21, 0);
 
     constants_created = true;
 }

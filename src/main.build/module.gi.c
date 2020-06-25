@@ -168,75 +168,75 @@ static bool constants_created = false;
 
 /* Function to create module private constants. */
 static void createModuleConstants(void) {
-    const_str_digest_a0447b4b6ffa0ba9d8790dd79c29697d = UNSTREAM_STRING_ASCII(&constant_bin[ 56798 ], 49, 0);
-    const_str_digest_affede846270f264becdab424a3bf89f = UNSTREAM_STRING_ASCII(&constant_bin[ 56847 ], 11, 0);
-    const_str_digest_7a36e976f711cfd77c8a25d1b8b5fa49 = UNSTREAM_STRING_ASCII(&constant_bin[ 56798 ], 37, 0);
-    const_str_plain_gtk = UNSTREAM_STRING_ASCII(&constant_bin[ 56858 ], 3, 1);
-    const_str_digest_517c8cc8c41f7c554877eb496c5908b3 = UNSTREAM_STRING_ASCII(&constant_bin[ 56861 ], 41, 0);
-    const_str_plain_pygobject_version = UNSTREAM_STRING_ASCII(&constant_bin[ 56902 ], 17, 1);
-    const_str_digest_89fa812345cd0806f73ae004bc37fa7c = UNSTREAM_STRING_ASCII(&constant_bin[ 56919 ], 307, 0);
-    const_str_digest_5c7b8db795951e06b0c86872367c0fed = UNSTREAM_STRING_ASCII(&constant_bin[ 56861 ], 26, 0);
-    const_str_digest_dd8c05e82d2bc3e2d1a14043cae77a04 = UNSTREAM_STRING_ASCII(&constant_bin[ 57226 ], 40, 0);
-    const_str_plain_module_version = UNSTREAM_STRING_ASCII(&constant_bin[ 57266 ], 14, 1);
+    const_str_digest_a0447b4b6ffa0ba9d8790dd79c29697d = UNSTREAM_STRING_ASCII(&constant_bin[ 57738 ], 49, 0);
+    const_str_digest_affede846270f264becdab424a3bf89f = UNSTREAM_STRING_ASCII(&constant_bin[ 57787 ], 11, 0);
+    const_str_digest_7a36e976f711cfd77c8a25d1b8b5fa49 = UNSTREAM_STRING_ASCII(&constant_bin[ 57738 ], 37, 0);
+    const_str_plain_gtk = UNSTREAM_STRING_ASCII(&constant_bin[ 57798 ], 3, 1);
+    const_str_digest_517c8cc8c41f7c554877eb496c5908b3 = UNSTREAM_STRING_ASCII(&constant_bin[ 57801 ], 41, 0);
+    const_str_plain_pygobject_version = UNSTREAM_STRING_ASCII(&constant_bin[ 57842 ], 17, 1);
+    const_str_digest_89fa812345cd0806f73ae004bc37fa7c = UNSTREAM_STRING_ASCII(&constant_bin[ 57859 ], 307, 0);
+    const_str_digest_5c7b8db795951e06b0c86872367c0fed = UNSTREAM_STRING_ASCII(&constant_bin[ 57801 ], 26, 0);
+    const_str_digest_dd8c05e82d2bc3e2d1a14043cae77a04 = UNSTREAM_STRING_ASCII(&constant_bin[ 58166 ], 40, 0);
+    const_str_plain_module_version = UNSTREAM_STRING_ASCII(&constant_bin[ 58206 ], 14, 1);
     const_tuple_str_plain_Repository_tuple = PyTuple_New(1);
     PyTuple_SET_ITEM(const_tuple_str_plain_Repository_tuple, 0, const_str_plain_Repository); Py_INCREF(const_str_plain_Repository);
-    const_str_plain__DummyStaticModule = UNSTREAM_STRING_ASCII(&constant_bin[ 3754 ], 18, 1);
-    const_str_digest_f2151ff62bb38a7a9a47625fd568a17d = UNSTREAM_STRING_ASCII(&constant_bin[ 57280 ], 429, 0);
-    const_str_plain__gobject = UNSTREAM_STRING_ASCII(&constant_bin[ 3724 ], 8, 1);
-    const_str_plain_require_foreign = UNSTREAM_STRING_ASCII(&constant_bin[ 57709 ], 15, 1);
+    const_str_plain__DummyStaticModule = UNSTREAM_STRING_ASCII(&constant_bin[ 3931 ], 18, 1);
+    const_str_digest_f2151ff62bb38a7a9a47625fd568a17d = UNSTREAM_STRING_ASCII(&constant_bin[ 58220 ], 429, 0);
+    const_str_plain__gobject = UNSTREAM_STRING_ASCII(&constant_bin[ 3901 ], 8, 1);
+    const_str_plain_require_foreign = UNSTREAM_STRING_ASCII(&constant_bin[ 58649 ], 15, 1);
     const_tuple_str_plain_namespace_str_plain_symbol_str_plain_e_tuple = PyTuple_New(3);
     PyTuple_SET_ITEM(const_tuple_str_plain_namespace_str_plain_symbol_str_plain_e_tuple, 0, const_str_plain_namespace); Py_INCREF(const_str_plain_namespace);
-    const_str_plain_symbol = UNSTREAM_STRING_ASCII(&constant_bin[ 13217 ], 6, 1);
+    const_str_plain_symbol = UNSTREAM_STRING_ASCII(&constant_bin[ 13326 ], 6, 1);
     PyTuple_SET_ITEM(const_tuple_str_plain_namespace_str_plain_symbol_str_plain_e_tuple, 1, const_str_plain_symbol); Py_INCREF(const_str_plain_symbol);
     PyTuple_SET_ITEM(const_tuple_str_plain_namespace_str_plain_symbol_str_plain_e_tuple, 2, const_str_plain_e); Py_INCREF(const_str_plain_e);
-    const_str_plain__API = UNSTREAM_STRING_ASCII(&constant_bin[ 3564 ], 4, 1);
+    const_str_plain__API = UNSTREAM_STRING_ASCII(&constant_bin[ 3741 ], 4, 1);
     const_tuple_str_digest_7f74f20c381d06cfe875fb623ed12409_tuple = PyTuple_New(1);
-    const_str_digest_7f74f20c381d06cfe875fb623ed12409 = UNSTREAM_STRING_ASCII(&constant_bin[ 57724 ], 11, 0);
+    const_str_digest_7f74f20c381d06cfe875fb623ed12409 = UNSTREAM_STRING_ASCII(&constant_bin[ 58664 ], 11, 0);
     PyTuple_SET_ITEM(const_tuple_str_digest_7f74f20c381d06cfe875fb623ed12409_tuple, 0, const_str_digest_7f74f20c381d06cfe875fb623ed12409); Py_INCREF(const_str_digest_7f74f20c381d06cfe875fb623ed12409);
-    const_str_plain_require_versions = UNSTREAM_STRING_ASCII(&constant_bin[ 57160 ], 16, 1);
-    const_str_digest_de8d307d216d1cba44bb67d5039cbd5c = UNSTREAM_STRING_ASCII(&constant_bin[ 57735 ], 30, 0);
+    const_str_plain_require_versions = UNSTREAM_STRING_ASCII(&constant_bin[ 58100 ], 16, 1);
+    const_str_digest_de8d307d216d1cba44bb67d5039cbd5c = UNSTREAM_STRING_ASCII(&constant_bin[ 58675 ], 30, 0);
     const_tuple_str_plain__API_tuple = PyTuple_New(1);
     PyTuple_SET_ITEM(const_tuple_str_plain__API_tuple, 0, const_str_plain__API); Py_INCREF(const_str_plain__API);
-    const_str_plain_loaded_version = UNSTREAM_STRING_ASCII(&constant_bin[ 57765 ], 14, 1);
-    const_str_digest_7637fdde706f8672d2b6dcf060f21d3b = UNSTREAM_STRING_ASCII(&constant_bin[ 57779 ], 11, 0);
+    const_str_plain_loaded_version = UNSTREAM_STRING_ASCII(&constant_bin[ 58705 ], 14, 1);
+    const_str_digest_7637fdde706f8672d2b6dcf060f21d3b = UNSTREAM_STRING_ASCII(&constant_bin[ 58719 ], 11, 0);
     const_list_str_digest_7a36e976f711cfd77c8a25d1b8b5fa49_list = PyList_New(1);
     PyList_SET_ITEM(const_list_str_digest_7a36e976f711cfd77c8a25d1b8b5fa49_list, 0, const_str_digest_7a36e976f711cfd77c8a25d1b8b5fa49); Py_INCREF(const_str_digest_7a36e976f711cfd77c8a25d1b8b5fa49);
-    const_str_plain__static_binding_error = UNSTREAM_STRING_ASCII(&constant_bin[ 3264 ], 21, 1);
+    const_str_plain__static_binding_error = UNSTREAM_STRING_ASCII(&constant_bin[ 3441 ], 21, 1);
     const_tuple_10e5629d3f01667086b20e02d1c3efb3_tuple = PyTuple_New(5);
     PyTuple_SET_ITEM(const_tuple_10e5629d3f01667086b20e02d1c3efb3_tuple, 0, const_str_plain_namespace); Py_INCREF(const_str_plain_namespace);
     PyTuple_SET_ITEM(const_tuple_10e5629d3f01667086b20e02d1c3efb3_tuple, 1, const_str_plain_version); Py_INCREF(const_str_plain_version);
     PyTuple_SET_ITEM(const_tuple_10e5629d3f01667086b20e02d1c3efb3_tuple, 2, const_str_plain_repository); Py_INCREF(const_str_plain_repository);
     PyTuple_SET_ITEM(const_tuple_10e5629d3f01667086b20e02d1c3efb3_tuple, 3, const_str_plain_loaded_version); Py_INCREF(const_str_plain_loaded_version);
-    const_str_plain_available_versions = UNSTREAM_STRING_ASCII(&constant_bin[ 57790 ], 18, 1);
+    const_str_plain_available_versions = UNSTREAM_STRING_ASCII(&constant_bin[ 58730 ], 18, 1);
     PyTuple_SET_ITEM(const_tuple_10e5629d3f01667086b20e02d1c3efb3_tuple, 4, const_str_plain_available_versions); Py_INCREF(const_str_plain_available_versions);
-    const_str_digest_b11fe287e217c7d309d15c60be163783 = UNSTREAM_STRING_ASCII(&constant_bin[ 57808 ], 220, 0);
-    const_str_digest_a27c4df0c0cf64d7600c41ced2d1b485 = UNSTREAM_STRING_ASCII(&constant_bin[ 58028 ], 39, 0);
-    const_str_plain_register_foreign = UNSTREAM_STRING_ASCII(&constant_bin[ 58067 ], 16, 1);
-    const_str_digest_115a3fb84b88ef372f7519859c755919 = UNSTREAM_STRING_ASCII(&constant_bin[ 58083 ], 46, 0);
-    const_str_plain__versions = UNSTREAM_STRING_ASCII(&constant_bin[ 3440 ], 9, 1);
+    const_str_digest_b11fe287e217c7d309d15c60be163783 = UNSTREAM_STRING_ASCII(&constant_bin[ 58748 ], 220, 0);
+    const_str_digest_a27c4df0c0cf64d7600c41ced2d1b485 = UNSTREAM_STRING_ASCII(&constant_bin[ 58968 ], 39, 0);
+    const_str_plain_register_foreign = UNSTREAM_STRING_ASCII(&constant_bin[ 59007 ], 16, 1);
+    const_str_digest_115a3fb84b88ef372f7519859c755919 = UNSTREAM_STRING_ASCII(&constant_bin[ 59023 ], 46, 0);
+    const_str_plain__versions = UNSTREAM_STRING_ASCII(&constant_bin[ 3617 ], 9, 1);
     const_tuple_str_plain_string_types_tuple = PyTuple_New(1);
     PyTuple_SET_ITEM(const_tuple_str_plain_string_types_tuple, 0, const_str_plain_string_types); Py_INCREF(const_str_plain_string_types);
-    const_str_digest_4d8cf1253b9a83da57df0fd5e0c7f535 = UNSTREAM_STRING_ASCII(&constant_bin[ 58129 ], 78, 0);
-    const_str_plain_dirname = UNSTREAM_STRING_ASCII(&constant_bin[ 58207 ], 7, 1);
-    const_str_plain__PyGObject_API = UNSTREAM_STRING_ASCII(&constant_bin[ 58214 ], 14, 1);
+    const_str_digest_4d8cf1253b9a83da57df0fd5e0c7f535 = UNSTREAM_STRING_ASCII(&constant_bin[ 59069 ], 78, 0);
+    const_str_plain_dirname = UNSTREAM_STRING_ASCII(&constant_bin[ 59147 ], 7, 1);
+    const_str_plain__PyGObject_API = UNSTREAM_STRING_ASCII(&constant_bin[ 59154 ], 14, 1);
     const_tuple_5955f517bc036d353cc06740523c3306_tuple = PyTuple_New(3);
-    const_str_plain_requires = UNSTREAM_STRING_ASCII(&constant_bin[ 57006 ], 8, 1);
+    const_str_plain_requires = UNSTREAM_STRING_ASCII(&constant_bin[ 57946 ], 8, 1);
     PyTuple_SET_ITEM(const_tuple_5955f517bc036d353cc06740523c3306_tuple, 0, const_str_plain_requires); Py_INCREF(const_str_plain_requires);
-    const_str_plain_module_name = UNSTREAM_STRING_ASCII(&constant_bin[ 58228 ], 11, 1);
+    const_str_plain_module_name = UNSTREAM_STRING_ASCII(&constant_bin[ 59168 ], 11, 1);
     PyTuple_SET_ITEM(const_tuple_5955f517bc036d353cc06740523c3306_tuple, 1, const_str_plain_module_name); Py_INCREF(const_str_plain_module_name);
     PyTuple_SET_ITEM(const_tuple_5955f517bc036d353cc06740523c3306_tuple, 2, const_str_plain_module_version); Py_INCREF(const_str_plain_module_version);
-    const_str_plain_gio = UNSTREAM_STRING_ASCII(&constant_bin[ 58239 ], 3, 1);
+    const_str_plain_gio = UNSTREAM_STRING_ASCII(&constant_bin[ 59179 ], 3, 1);
     const_tuple_str_plain_namespace_tuple = PyTuple_New(1);
     PyTuple_SET_ITEM(const_tuple_str_plain_namespace_tuple, 0, const_str_plain_namespace); Py_INCREF(const_str_plain_namespace);
-    const_str_plain_get_loaded_namespaces = UNSTREAM_STRING_ASCII(&constant_bin[ 58242 ], 21, 1);
-    const_str_plain_check_version = UNSTREAM_STRING_ASCII(&constant_bin[ 58263 ], 13, 1);
-    const_str_digest_681417438b8d9fcabeabf1f796aea690 = UNSTREAM_STRING_ASCII(&constant_bin[ 58276 ], 7, 0);
+    const_str_plain_get_loaded_namespaces = UNSTREAM_STRING_ASCII(&constant_bin[ 59182 ], 21, 1);
+    const_str_plain_check_version = UNSTREAM_STRING_ASCII(&constant_bin[ 59203 ], 13, 1);
+    const_str_digest_681417438b8d9fcabeabf1f796aea690 = UNSTREAM_STRING_ASCII(&constant_bin[ 59216 ], 7, 0);
     const_tuple_str_plain_version_str_plain_version_list_tuple = PyTuple_New(2);
     PyTuple_SET_ITEM(const_tuple_str_plain_version_str_plain_version_list_tuple, 0, const_str_plain_version); Py_INCREF(const_str_plain_version);
-    const_str_plain_version_list = UNSTREAM_STRING_ASCII(&constant_bin[ 58283 ], 12, 1);
+    const_str_plain_version_list = UNSTREAM_STRING_ASCII(&constant_bin[ 59223 ], 12, 1);
     PyTuple_SET_ITEM(const_tuple_str_plain_version_str_plain_version_list_tuple, 1, const_str_plain_version_list); Py_INCREF(const_str_plain_version_list);
-    const_str_plain__overridesdir = UNSTREAM_STRING_ASCII(&constant_bin[ 58295 ], 13, 1);
-    const_str_digest_5c8c759a3d108d741b7bec4a1c2dfc07 = UNSTREAM_STRING_ASCII(&constant_bin[ 58308 ], 425, 0);
+    const_str_plain__overridesdir = UNSTREAM_STRING_ASCII(&constant_bin[ 59235 ], 13, 1);
+    const_str_digest_5c8c759a3d108d741b7bec4a1c2dfc07 = UNSTREAM_STRING_ASCII(&constant_bin[ 59248 ], 425, 0);
 
     constants_created = true;
 }
@@ -358,7 +358,7 @@ static PyObject *impl_gi$$$function_1___getattr__(struct Nuitka_FunctionObject c
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 3258 ], 43, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 3435 ], 43, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -607,7 +607,7 @@ static PyObject *impl_gi$$$function_2_check_version(struct Nuitka_FunctionObject
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 3301 ], 34, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 3478 ], 34, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -659,7 +659,7 @@ static PyObject *impl_gi$$$function_2_check_version(struct Nuitka_FunctionObject
             Py_DECREF(tmp_right_name_1);
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 3335 ], 33, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 3512 ], 33, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -874,7 +874,7 @@ static PyObject *impl_gi$$$function_3_require_version(struct Nuitka_FunctionObje
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 3368 ], 32, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 3545 ], 32, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -918,7 +918,7 @@ static PyObject *impl_gi$$$function_3_require_version(struct Nuitka_FunctionObje
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 3400 ], 34, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 3577 ], 34, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -1133,7 +1133,7 @@ static PyObject *impl_gi$$$function_3_require_version(struct Nuitka_FunctionObje
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 3434 ], 31, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 3611 ], 31, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -1173,7 +1173,7 @@ static PyObject *impl_gi$$$function_3_require_version(struct Nuitka_FunctionObje
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 3434 ], 31, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 3611 ], 31, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -1248,7 +1248,7 @@ static PyObject *impl_gi$$$function_3_require_version(struct Nuitka_FunctionObje
             Py_DECREF(tmp_right_name_2);
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 3434 ], 31, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 3611 ], 31, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -1460,7 +1460,7 @@ static PyObject *impl_gi$$$function_3_require_version(struct Nuitka_FunctionObje
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 3434 ], 31, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 3611 ], 31, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -1966,7 +1966,7 @@ static PyObject *impl_gi$$$function_4_require_versions(struct Nuitka_FunctionObj
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 3465 ], 37, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 3642 ], 37, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -2221,7 +2221,7 @@ static PyObject *impl_gi$$$function_5_get_required_version(struct Nuitka_Functio
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 3434 ], 31, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 3611 ], 31, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -2419,7 +2419,7 @@ static PyObject *impl_gi$$$function_6_require_foreign(struct Nuitka_FunctionObje
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 3502 ], 25, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 3679 ], 25, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -2618,7 +2618,7 @@ static PyObject *impl_gi$$$function_6_require_foreign(struct Nuitka_FunctionObje
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 3527 ], 31, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 3704 ], 31, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -3434,7 +3434,7 @@ PyObject *modulecode_gi(PyObject *module, struct Nuitka_MetaPathBasedLoaderEntry
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 827 ], 30, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 1004 ], 30, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -3573,7 +3573,7 @@ PyObject *modulecode_gi(PyObject *module, struct Nuitka_MetaPathBasedLoaderEntry
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 827 ], 30, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 1004 ], 30, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -3763,7 +3763,7 @@ PyObject *modulecode_gi(PyObject *module, struct Nuitka_MetaPathBasedLoaderEntry
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 3258 ], 43, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 3435 ], 43, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -4091,7 +4091,7 @@ PyObject *modulecode_gi(PyObject *module, struct Nuitka_MetaPathBasedLoaderEntry
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 3558 ], 26, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 3735 ], 26, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -4117,7 +4117,7 @@ PyObject *modulecode_gi(PyObject *module, struct Nuitka_MetaPathBasedLoaderEntry
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 3584 ], 44, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 3761 ], 44, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -4143,7 +4143,7 @@ PyObject *modulecode_gi(PyObject *module, struct Nuitka_MetaPathBasedLoaderEntry
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 3628 ], 33, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 3805 ], 33, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -4185,7 +4185,7 @@ PyObject *modulecode_gi(PyObject *module, struct Nuitka_MetaPathBasedLoaderEntry
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 139 ], 24, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 0 ], 24, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -4229,7 +4229,7 @@ PyObject *modulecode_gi(PyObject *module, struct Nuitka_MetaPathBasedLoaderEntry
             Py_DECREF(tmp_called_name_2);
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 139 ], 24, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 0 ], 24, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -4274,7 +4274,7 @@ PyObject *modulecode_gi(PyObject *module, struct Nuitka_MetaPathBasedLoaderEntry
             Py_DECREF(tmp_called_name_3);
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 3661 ], 30, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 3838 ], 30, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -4333,7 +4333,7 @@ PyObject *modulecode_gi(PyObject *module, struct Nuitka_MetaPathBasedLoaderEntry
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 3691 ], 27, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 3868 ], 27, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -4386,7 +4386,7 @@ PyObject *modulecode_gi(PyObject *module, struct Nuitka_MetaPathBasedLoaderEntry
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 198 ], 25, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 670 ], 25, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -4418,7 +4418,7 @@ PyObject *modulecode_gi(PyObject *module, struct Nuitka_MetaPathBasedLoaderEntry
             Py_DECREF(tmp_ass_subscribed_1);
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 3718 ], 30, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 3895 ], 30, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -4470,7 +4470,7 @@ PyObject *modulecode_gi(PyObject *module, struct Nuitka_MetaPathBasedLoaderEntry
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 3502 ], 25, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 3679 ], 25, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -4502,7 +4502,7 @@ PyObject *modulecode_gi(PyObject *module, struct Nuitka_MetaPathBasedLoaderEntry
             Py_DECREF(tmp_assattr_name_4);
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 3718 ], 30, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 3895 ], 30, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -4542,7 +4542,7 @@ PyObject *modulecode_gi(PyObject *module, struct Nuitka_MetaPathBasedLoaderEntry
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 3502 ], 25, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 3679 ], 25, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -4574,7 +4574,7 @@ PyObject *modulecode_gi(PyObject *module, struct Nuitka_MetaPathBasedLoaderEntry
             Py_DECREF(tmp_assattr_name_5);
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 3718 ], 30, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 3895 ], 30, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -4614,7 +4614,7 @@ PyObject *modulecode_gi(PyObject *module, struct Nuitka_MetaPathBasedLoaderEntry
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 3502 ], 25, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 3679 ], 25, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -4700,7 +4700,7 @@ PyObject *modulecode_gi(PyObject *module, struct Nuitka_MetaPathBasedLoaderEntry
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 3502 ], 25, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 3679 ], 25, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -4741,7 +4741,7 @@ PyObject *modulecode_gi(PyObject *module, struct Nuitka_MetaPathBasedLoaderEntry
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 3691 ], 27, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 3868 ], 27, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -5490,7 +5490,7 @@ PyObject *modulecode_gi(PyObject *module, struct Nuitka_MetaPathBasedLoaderEntry
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 3748 ], 40, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 3925 ], 40, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -5512,7 +5512,7 @@ PyObject *modulecode_gi(PyObject *module, struct Nuitka_MetaPathBasedLoaderEntry
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 3258 ], 43, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 3435 ], 43, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -5549,7 +5549,7 @@ PyObject *modulecode_gi(PyObject *module, struct Nuitka_MetaPathBasedLoaderEntry
             Py_DECREF(tmp_ass_subvalue_2);
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 198 ], 25, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 670 ], 25, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -5607,7 +5607,7 @@ PyObject *modulecode_gi(PyObject *module, struct Nuitka_MetaPathBasedLoaderEntry
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 3748 ], 40, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 3925 ], 40, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -5629,7 +5629,7 @@ PyObject *modulecode_gi(PyObject *module, struct Nuitka_MetaPathBasedLoaderEntry
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 3258 ], 43, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 3435 ], 43, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -5666,7 +5666,7 @@ PyObject *modulecode_gi(PyObject *module, struct Nuitka_MetaPathBasedLoaderEntry
             Py_DECREF(tmp_ass_subvalue_3);
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 198 ], 25, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 670 ], 25, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -5724,7 +5724,7 @@ PyObject *modulecode_gi(PyObject *module, struct Nuitka_MetaPathBasedLoaderEntry
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 3748 ], 40, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 3925 ], 40, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -5746,7 +5746,7 @@ PyObject *modulecode_gi(PyObject *module, struct Nuitka_MetaPathBasedLoaderEntry
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 3258 ], 43, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 3435 ], 43, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -5783,7 +5783,7 @@ PyObject *modulecode_gi(PyObject *module, struct Nuitka_MetaPathBasedLoaderEntry
             Py_DECREF(tmp_ass_subvalue_4);
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 198 ], 25, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 670 ], 25, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -5841,7 +5841,7 @@ PyObject *modulecode_gi(PyObject *module, struct Nuitka_MetaPathBasedLoaderEntry
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 3748 ], 40, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 3925 ], 40, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -5863,7 +5863,7 @@ PyObject *modulecode_gi(PyObject *module, struct Nuitka_MetaPathBasedLoaderEntry
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 3258 ], 43, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 3435 ], 43, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -5900,7 +5900,7 @@ PyObject *modulecode_gi(PyObject *module, struct Nuitka_MetaPathBasedLoaderEntry
             Py_DECREF(tmp_ass_subvalue_5);
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 198 ], 25, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 670 ], 25, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -5958,7 +5958,7 @@ PyObject *modulecode_gi(PyObject *module, struct Nuitka_MetaPathBasedLoaderEntry
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 3748 ], 40, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 3925 ], 40, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -5980,7 +5980,7 @@ PyObject *modulecode_gi(PyObject *module, struct Nuitka_MetaPathBasedLoaderEntry
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 3258 ], 43, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 3435 ], 43, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -6017,7 +6017,7 @@ PyObject *modulecode_gi(PyObject *module, struct Nuitka_MetaPathBasedLoaderEntry
             Py_DECREF(tmp_ass_subvalue_6);
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 198 ], 25, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 670 ], 25, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);

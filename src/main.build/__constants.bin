@@ -1,0 +1,1174 @@
+name 'color' is not definedname 'commands' is not definedname 'inventory' is not definedname 'bg' is not definedname 'sleep' is not definedname 'os' is not definedname 'screenflicker' is not definedname 'sys' is not definedname 'help_command' is not definedname 'inventory_command' is not definedname 'outofmatches' is not definedname 'burnedout' is not definedname 'pg1' is not definedname 'pg2' is not definedname 'pg3' is not definedname 'pg4' is not definedname 'pg5' is not definedname 'ch1' is not definedname 'ch2' is not definedname 'ch3' is not definedname 'ch4' is not definedname 'ch5' is not definedname 'ch6' is not definedname 'syslog' is not definedname 'send' is not definedname 'OsError' is not definedname 'require_abs_path' is not definedname 'write_dump' is not definedname 'handle_exception' is not definedname '__path__' is not definedname '__all__' is not definedname 'is_py2' is not definedname 'BUS_SESSION' is not definedname 'SessionBus' is not definedname 'BUS_SYSTEM' is not definedname 'SystemBus' is not definedname 'BUS_STARTER' is not definedname 'StarterBus' is not definedname 'BusConnection' is not definedname 'Bus' is not definedname 'property' is not definedname 'get_connection' is not definedname 'staticmethod' is not definedname 'get_session' is not definedname 'get_system' is not definedname 'get_starter' is not definedname '__repr__' is not definedname 'ParserCreate' is not definedname '_Parser' is not definedname 'IntrospectionParserException' is not definedname 'validate_bus_name' is not definedname 'BUS_DAEMON_IFACE' is not definedname 'BUS_DAEMON_NAME' is not definedname 'BUS_DAEMON_PATH' is not definedname '_NAME_HAS_NO_OWNER' is not definedname 'logging' is not definedname '_logger' is not definedname 'weakref' is not definedname 'DeprecationWarning' is not definedname 'DBusException' is not definedname 'NameOwnerWatch' is not definedname 'Connection' is not definedname 'DBUS_START_REPLY_SUCCESS' is not definedname 'DBUS_START_REPLY_ALREADY_RUNNING' is not definedname 'TYPE_SESSION' is not definedname 'validate_member_name' is not definedname 'validate_interface_name' is not definedname 'validate_object_path' is not definedname 'is_py3' is not definedname 'String' is not definedname 'UTF8String' is not definedname 'threading' is not definedname 'SignalMatch' is not definedname 'SignalMessage' is not definedname 'HANDLER_RESULT_NOT_YET_HANDLED' is not definedname 'LOCAL_IFACE' is not definedname 'LOCAL_PATH' is not definedname 'MethodCallMessage' is not definedname '_noop' is not definedname 'MethodReturnMessage' is not definedname 'ErrorMessage' is not definedname '_slots' is not definedname 'tuple' is not definedname '_Connection' is not definedname 'ProxyObject' is not definedname 'unicode' is not definedname '_dbus_bindings' is not definedname '_dbus_gthreads_initialized' is not definedname 'gthreads_init' is not definedname 'MissingReplyHandlerException' is not definedname 'MissingErrorHandlerException' is not definedname 'RLock' is not definedname 'INTROSPECTABLE_IFACE' is not definedname 'process_introspection_data' is not definedname 'Interface' is not definedname '_ProxyMethod' is not definedname '_DeferredMethod' is not definedname 'object_path' is not definedname '_static_binding_error' is not definedname 'version_info' is not definedname '__version__' is not definedname 'Repository' is not definedname 'string_types' is not definedname '_versions' is not definedname 'require_version' is not definedname '_gi' is not definedname 'importlib' is not definedname '_API' is not definedname 'PyGIDeprecationWarning' is not definedname 'PyGIWarning' is not definedname '__file__' is not definedname 'types' is not definedname '_gobject' is not definedname '_DummyStaticModule' is not definedname 'TYPE_UINT' is not definedname 'TYPE_NONE' is not definedname 'TYPE_INTERFACE' is not definedname 'TYPE_CHAR' is not definedname 'TYPE_UCHAR' is not definedname 'TYPE_INT' is not definedname 'TYPE_BOOLEAN' is not definedname 'TYPE_LONG' is not definedname 'TYPE_ULONG' is not definedname 'TYPE_INT64' is not definedname 'TYPE_UINT64' is not definedname 'TYPE_FLOAT' is not definedname 'TYPE_DOUBLE' is not definedname 'TYPE_POINTER' is not definedname 'TYPE_BOXED' is not definedname 'TYPE_PARAM' is not definedname 'TYPE_OBJECT' is not definedname 'TYPE_STRING' is not definedname 'TYPE_PYOBJECT' is not definedname 'TYPE_GTYPE' is not definedname 'TYPE_STRV' is not definedname 'TYPE_VARIANT' is not definedname 'TYPE_ENUM' is not definedname 'TYPE_FLAGS' is not definedname 'Property' is not definedname 'long_' is not definedname 'G_MAXFLOAT' is not definedname 'G_MAXDOUBLE' is not definedname 'G_MININT' is not definedname 'G_MINLONG' is not definedname 'G_MAXUINT' is not definedname 'G_MAXULONG' is not definedname 'G_MAXINT' is not definedname 'G_MAXLONG' is not definedname 'get_signal_annotations' is not definedname 'Signal' is not definedname '_generate_doc_string_func' is not definedname '_type_tag_to_py_type' is not definedname 'TypeTag' is not definedname 'VFuncInfo' is not definedname 'FunctionInfo' is not definedname 'Direction' is not definedname '_get_pytype_hint' is not definedname 'StructInfo' is not definedname '_generate_callable_info_doc' is not definedname 'ObjectInfo' is not definedname '_generate_class_info_doc' is not definedname 'CallableInfo' is not definedname 'set_doc_string_generator' is not definedname 'repository' is not definedname 'gi' is not definedname 'warnings' is not definedname 'get_import_stacklevel' is not definedname '_check_require_version' is not definedname 'get_introspection_module' is not definedname 'RepositoryError' is not definedname 'load_overrides' is not definedname 'contextmanager' is not definedname 'EnumInfo' is not definedname 'flags_add' is not definedname 'flags_register_new_gtype_and_add' is not definedname 'enum_add' is not definedname 'enum_register_new_gtype_and_add' is not definedname 'maketrans' is not definedname 'RegisteredTypeInfo' is not definedname 'get_parent_for_object' is not definedname 'get_interfaces_for_object' is not definedname 'GObjectMeta' is not definedname 'CallbackInfo' is not definedname 'CCallback' is not definedname 'InterfaceInfo' is not definedname 'GInterface' is not definedname 'UnionInfo' is not definedname 'Boxed' is not definedname 'Struct' is not definedname 'StructMeta' is not definedname 'ConstantInfo' is not definedname '_introspection_modules' is not definedname 'IntrospectionModule' is not definedname 'OverridesProxyModule' is not definedname 'get_loader' is not definedname '_deprecated_attrs' is not definedname '_DeprecatedAttribute' is not definedname 'TYPE_INVALID' is not definedname 'functools' is not definedname 'DynamicImporter' is not definedname 're' is not definedname 'snake_case' is not definedname 'find_vfunc_info_in_interface' is not definedname 'find_vfunc_conflict_in_bases' is not definedname 'hook_up_vfunc_implementation' is not definedname 'propertyhelper' is not definedname 'signalhelper' is not definedname 'register_interface_info' is not definedname 'mro' is not definedname 'generate_doc_string' is not definedname 'RuntimeWarning' is not definedname 'nothing' is not definedname '_GObjectMetaBase' is not definedname 'MetaClassHelper' is not definedname 'dict' is not definedname 'proxies' is not definedname 'type' is not definedname 'str' is not definedname 'int' is not definedname 'datetime' is not definedname 'AttributeError' is not definedname 'Problem' is not definedname 'KeyError' is not definedname 'inspect' is not definedname 'PREFETCH_FIELDS' is not definedname 'hashlib' is not definedname 'hasattr' is not definedname 'isinstance' is not definedname 'bool' is not definedname 'setattr' is not definedname 'delattr' is not definedname 'getattr' is not definedname 'REQUIRED_FIELDS' is not definedname 'exception' is not definedname 'Java' is not definedname 'JAVA' is not definedname 'Selinux' is not definedname 'SELINUX' is not definedname 'Ccpp' is not definedname 'CCPP' is not definedname 'Python' is not definedname 'PYTHON' is not definedname 'Python3' is not definedname 'PYTHON3' is not definedname 'Kerneloops' is not definedname 'KERNELOOPS' is not definedname 'Xorg' is not definedname 'XORG' is not definedname 'Runtime' is not definedname 'RUNTIME' is not definedname 'Unknown' is not definedname 'tools' is not definedname 'watch' is not definedname 'ImportError' is not definedname 'object' is not definedname 'not_reportable' is not definedname 'not_reportable_reason' is not definedname 'DBusProxy' is not definedname 'problem' is not definedname 'report' is not definedname 'FsProxy' is not definedname 'len' is not definedname 'open' is not definedname 'parse_os_release_lines' is not definedname 'IOError' is not definedname 'parse_os_release_file' is not definedname 'OS_RELEASE_PRODUCT_FIELDS' is not definedname 'OS_RELEASE_VERSION_FIELDS' is not definedname 'SYSTEM_RELEASE_PATHS' is not definedname 'getProduct_fromOSRELEASE' is not definedname 'getProduct_fromFILE' is not definedname 'getProduct_fromPRODUCT' is not definedname '_hardcoded_default_product' is not definedname 'getVersion_fromOSRELEASE' is not definedname 'getVersion_fromFILE' is not definedname 'getVersion_fromPRODUCT' is not definedname '_hardcoded_default_version' is not definedname 'problem_data' is not definedname 'getProduct' is not definedname 'getVersion' is not definedname 'TextIO' is not definedname 'LIBREPORT_RUN_CLI' is not definedname 'NewtIO' is not definedname 'LIBREPORT_WAIT' is not definedname 'LIBREPORT_RUN_NEWT' is not definedname 'report_problem_in_memory' is not definedname 'report_problem' is not definedname 'run_event_state' is not definedname '__import__' is not definedname 'globals' is not definedname '_temp' is not definedname 'Monotonic' is not definedname '_datetime' is not definedname '_uuid' is not definedname '_IDENT_CHARACTER' is not definedname 'LOCAL_ONLY' is not definedname 'Reader' is not definedname '_sys' is not definedname '_ChainMap' is not definedname 'DEFAULT_CONVERTERS' is not definedname '_make_line' is not definedname '_id128' is not definedname '_get_catalog' is not definedname '_traceback' is not definedname 'sendv' is not definedname 'stream_fd' is not definedname '_os' is not definedname 'JournalHandler' is not definedname '_valid_field_name' is not definedname '_logging' is not definedname 'LOG_DEBUG' is not definedname 'LOG_INFO' is not definedname 'LOG_WARNING' is not definedname 'LOG_ERR' is not definedname 'LOG_CRIT' is not definedname 'LOG_ALERT' is not definedname '_convert_timestamp' is not definedname '_convert_realtime' is not definedname '_convert_source_monotonic' is not definedname '_convert_monotonic' is not definedname '_convert_trivial' is not definedname '_Reader' is not definedname '__next__' is not definedname 'map_priority' is not definedexamine keyYou open the Bible. The pages are stained with blood.NecklacePick up what?You take a step back. You can make out a crude etching of awhom they sacrificed to the idols of Canaan, and the land wasdraw circleAgainst your common sense, almost as if you are being pulled byexamine candlesYour eyes are fixated on the necklace.You're unsure of how that even got there, but that's the least of your problems.fallen through..You strike the match, and it comes to life.bigspaceAdded to inventory!pick up matchesexamine necklaceNow you have at least some idea of what you're doing..examine shapeMatchesYou walk over to the light. It's a flickering white candle,It has a plain black handle and a very sharp point.Excuse me?candlesplaced-------------Page 5------------->>> For example, use the command You can't use that now.You would have to I'm slowly going mad. Not even the Bible can save me now.There is a necklace with a sigil on the pendant,There are several things in the box, but you're more interestedalone in this enclosed church room with no doors or windows.There's nothing there...You pick up the matches.The door is locked and it won't budge.examine flashexamine chalkpick up black candle-------------Page 1-------------...Your match burned out!You place the white candle in a corner.You're still in the church, but you must have..You'd only trip over your own feet in the dark.pick up bookAs you get up, you see that the room you are in is dimly lit.pick up the bibleYou couldn't run if you tried.There's nothing special about them.Stop talking nonsense.It's still dark, except you are aware of a faint, flickering lightYou look underneath the altar..It's a shiny, fresh razor blade.*not* to pick it up, pathetic human, you do so anyway, against yourYou pick up the chalk.Commands:_exituse black candleYou already have the Bible.examine cornerpick up keyThe stench of the rotting flesh instantly hits you.use bladeThere's nothing much else to see.It tells the Spirits that they can leave, essentially.Which candle?You can type 'help'...NotebookThe box is locked.The candles are on a small table in the corner.for the impact but..It's a bible, not out of place in a church.examine what?coming from somewhere a little further away.I leave my things, may they rot forever in this unholy....examine symbol-------------Page 2-------------ENDDARKCYANYour foolish answers make no sense.You don't even know what drawing the so-called 'magic circle'Doesn't look like they're going to burn out anytime soon.If you have any difficulties, try rewording your command.The key is staying in one place! use the black handled knife.use white candleuse pendant[36mgiven that they do not appear or depart when commanded to do so.Razor BladeFrantically, you try again and again to escape, to no avail.but on the top of it all is a black leather notebook.You look, by the dim light of the match.read the license..It's disturbing that something like that's even here.It's very lengthly.You unlock the box.I cannot accept that answer.lookkeyclearWhite chalk, not in a box but rather wrapped in a black ribbon.A wave of cold washes over you.while the candle is still burning.It's starting to get cold.instead.The bible crumbles to ash and the flame dies.GREENBlack Candleas if there is an imaginary square in the middle of the roomBut it seems you're trapped here, and you figure if somethingHowever, it appears to be shiny and new, in contrast toThere's nothing else there.You pick up the key..[95mexamine the bibleYou look around. The candle is slowly burning down...Your hands stopped shaking..you didn't even realize they wereexamine metalThere are several things in the box, on top of which is a blackexamine bottleMaybe you should take that first?goes wrong, it would probably be a quicker death than rottingBOLDThe key moves to either one of four places,Examine what?The door still won't budge, either.You feel for the matchbook.examine paperThere is also a small empty bottle marked 'Holy Water'.You begin to draw the nine-foot Circle, to the best of your ability.examine daggerYou examine the pews. The wood is cracked and stained.You don't see a door.The rest of the page is smeared with dried blood.Red CandleYou pick up the notebook.The Bible is burning, quickly, quickly!use bookread biblethe decay surrounding you.Keep your commands free of punctuation, weird spellings, or any such things.It's too dark to make out any words.You've begun to notice a pattern in the way the key moves.You place the black candle in a corner.use chalkStill, you were commanded to pick it up, and since you can't find a reason[1mBy the dying candlelight, you slowly take a few steps.You can't do that. It's dark.You found a key! You're almost surprised that it was this easy.pickedupnecklacepressenterBeliefs aside, you need more light.lightgreyIn a last attempt at hope, you run at the door, hoping to break it.UNDERLINEto flip to the first page.I'm not programmed to accept that answer.PURPLE
+Welcome to Church of Darkness.
+Game created by artificialstarlight, ported to binary by fm'latghor.
+Content licensed under CC BY-NC-SA 4.0, source code licensed under the
+MIT license.
+
+   Press ENTER to continue.
+            examine deerother corner.You wake up.You walk over to the shape in the corner and...page5You are alone, in the dark.There's nothing to pick up.Exactly, you have nothing you can use.It's a dead deer, crawling with maggots, and it seems to have its throat slit.Your foolish answers mean nothing.Inventory: You think you can escape?They shed innocent blood, the blood of their sons and daughters,pick up candlesand the key touching the corners.at the end of each arm of the X.page2In fact, as you turn and look behind you, you see that the symbolburned almost halfway through.You put the necklace on...The book said something about drawing a magic circle..Besides, you don't seem to have the energy to, anyway.Out of the corner of your eye, you notice a flash of silverThe strange symbol seems to be etched into your mindIt seems to be stamped into your mind..You don't know what you're doing, there's nothing in your mind butexamine boxconsecrated chalk...'You look around. The light's coming from what remains ofThere's no need to do that.a paper with the strange symbol from earlier drawn on it,see by.Use what?It's just enough light to read by.<module>Reading the Bible won't save you.examine holy waterIt's thick, but only five pages seem to have been written in.This page details the making of the lamens and seals which areYou shudder at the thought.I cannot accept your nonsense ramblings.Use? Use what?You have no more matches.Your fingers brush against the rough walls..read the evocation...It is empty except for some old pews and a dark shape in the corner.examine journal[92mDo you really want to try that again?You become aware of a prescence behind you as suddenly youIt's empty. There's no use for this.use match on biblepick up razor bladeIf everything else wasn't disturbing enough, that is.no matter how hard you hit your pathetic fists against them.Yep, looks like a key alright.You can only carry one at a time.on the wall is gone.examine wallThere's nothing you can use.numtriesinputThere's nothing more to examine.The paper looks thin and flammable, however.pick up holy water[93muse razor bladeWhat?-------------Page 3-------------You can flip to a specific page..{®Gáz´?pick up bottleThis page gives the Curse which the summoner shall place upon the Spirits...The candles already illuminate the small room just enough tostrange symbol carved into the wall.Added to Inventory!.......For example, don't say 'pick up the small box in the corner over there.'You feel unexpected ridges and grooves, as if someoneWhat would you even do with it?use journalIt must be the sigil...use matchesBut don't be too specific with it....!!!!You pick up the candle.[94mYou look around. You notice a shine of metal on the floor in thedesecrated by their blood.'You open the Bible to a random page.in the first place.A voice echos in your head...You really don't want to meddle about with..spirits.You already have a match lit!You look around. You notice the shine of metal has moved topick up necklaceexamine pews..and offer a drop of blood.Your fingers go right through it, and it dissapears.There is a black box under the table.an unwanted force, you turn around and run towards the symbolYou can feel it. Getting closer, and closer, and...There's something wedged between the seats...You don't want to pick it up.It stinks of rot.It is not yet your time..You don't need to mess with the candles anymore.You weren't aware that you were ever unconscious in the first place.'They sacrificed their sons and daughters to false gods.What was that?examine tableOh god. Oh god. I messed up. I won't be able to-  I forgot....examinedbibleYou don't see any doors.This is the last page that has writing on it.There's no need to run.pick up journalNothing seems to be any different.You light the match.It appears to be a circle with an X inside it, with crossesYou stumble around in the dark, feeling for a wall or a door.page1use bibleYou didn't type 'help', did you?It has the same symbol on it you saw etched into the wall.'The Circle is meant to be nine feet in diameter, made with blessed orYou try to touch it, but it burns your fingers.You can specify your commands, such as 'pick up box',I don't understand.use candleIt shouldn't be too hard to find a key in this small room.examine dead deerexamine lightin the journal as of now.[91mYou lift your foot, underneath is what looks like a book of matches.examinedcornerexaminedpewspick up notebook/home/lcoogan/Code/Church-of-Darkness/main.pyYou suddenly feel calmer.You'll need chalk for that.[47mIt's too heavy to pick up.An earsplitting voice shrieks in your head-BLUEThere is a paper with the strange symbol from earlier drawn on it,examine bookcircle, as well as the Triangle.A flicker of light..White Candleexamine dark shapeshut your eyes...You try to run. The old windows won't break,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       Besides, the doors likely still won't open.[40mburn bibleexamine altarMaybe if you placed something in the corners...You can barely make out faint outlines.examine shinestart to get dizzy...WHY HAVE YOU FORSAKEN US?You can't look. It's dark.Psalm 106:37-38...use keyYou begin to feel as though you are not alone in the church any longer.pick up daggeruse key on box[4mpick up chalkYou have a key, don't you?just as it is etched into the wall.There are 4 matches in the crumbling paper matchbook.use red candleHowever, you feel nothing.page3The sigil is engraved into the pendant, just as the book said to do.There's nothing there anymore, except for a dark stain and theWhy do think you know what you're doing already?All the rest of the pages are blank.[96muse necklaceexamine notebookexamine pendantYou take another step back, and you feel a soft crunch under your foot.would do, anyway.use notebookpick up bladeYou feel like you should look around some moreInside, there are several things..And it's solid! A physical key.You try, but the wax burns your fingers.[0mpick up paperexamine razor bladeThis page gives the license to depart.You ridiculous utterances have no meaning to me.pick up knifeThis page details the Evocation...examine matchesThere's no reason to move them.Now, why would you do that?[41mpick up white candleYou take the match to the bible.You feel as if something is weighing you down..static and the symbol, burned into your memory even as youMaybe this will help you find a way out of here...All you feel is an icy cold grip, as your fingers turn numb..Or use a different command altogether.matchlitYou expect to crash into the wall, you can't stop running, you bracehad carved something there.Do as I say.abrt_exception_handler3page4YELLOWYou look. The room is lit because of three candles.You...I..-------------Page 4-------------You pick up the necklace.One is white, one is black, and one is red.You don't know if you want to read any further.some chalk, and a black handled dagger.You look around. You seem to be in what appears to be an old church.lingering smell of rot.You try running away, but you don't get very far.examine bladeexamine silverThe candles are on the floor, and the box awaits in the corner. burn the spirit's sigilThe light illuminates the strange symbol on the wall.There's no need to do that now.The End..for nowYou place the red candle in a corner.Paper burns fast. You'd better figure out what to do while you can.And the church went dark.examine biblebetter judgement.Shouldn't you take a closer look before you go about taking things?You walk over to the table in the corner.another place on the floor.pick up bibleYou look around, again.Be clear with what you want to say.It all looks very intricate.It's new. Shiny. And most surprisingly, there's no blood on it at all.pick up red candleYou realize just how exhausted you are..You stumble, and fall.examine black boxIt's a journal of some sort.examine black handled daggernecessary for a conjuration, as well as the creation of the magicBAD ENDThe candles are on the floor.You look around. You seem to be in what appears to be a small, old church.You pick up the Bible. You wish it wasn't so bloody, though.pick up pendantYou look around. There's not much else to see.executable={0} {0}: {1}
+format_exceptionextract_tbdetected unhandled Python exception in 'interactive mode{0}'
+    The exception handling function.
+
+    progname - the name of the application
+    version  - the version of the application
+    etypeinstall_handlerRequireAbsolutePatherrnoeinfoelisttblastextxtframesplitlinesEPIPEformat_exception_only (python {0} ...)responseHTTP/detected unhandled Python exception in '{0}'
+Local variables in innermost frame:
+python3.conf/usr/lib/python3.8/site-packages/abrt_exception_handler3.pyf_localscommunication with ABRT daemon failed: {0}partsreason={0} Send data to abrtdinstall_handler.<locals>.<lambda>{0}
+{1}
+Module for the ABRT exception handling hook
+error sending data to ABRT daemon: {0}POST / HTTP/1.1
+
+type=Python3 analyzer=abrt-python3-handler backtrace={0} tb_textcan't communicate with ABRT daemon, is it running? {0}
+    Return True if absolute path requirement is enabled
+    in configuration
+    pid={0} basenameexcepthooktb_nextLog message to system logger (journal){0}
+
+{1}load_plugin_conf_file__excepthook__<module abrt_exception_handler3>
+    Install the exception handling function.
+    systemdtb_framePEER_IFACEget_default_main_loopset_default_main_loop<module dbus>/usr/lib64/python3.8/site-packages/dbusPROPERTIES_IFACEImplements the public API for a D-Bus client. See the dbus.service module
+to export objects or claim well-known names.
+/usr/lib64/python3.8/site-packages/dbus/__init__.pyÛ.   zBusz	SystemBusz
+SessionBusz
+StarterBusz	Interfacezget_default_main_loopzset_default_main_loopzvalidate_interface_namezvalidate_member_namezvalidate_bus_namezvalidate_object_pathzvalidate_error_namezBUS_DAEMON_NAMEzBUS_DAEMON_PATHzBUS_DAEMON_IFACEz
+LOCAL_PATHzLOCAL_IFACEz
+PEER_IFACEzINTROSPECTABLE_IFACEzPROPERTIES_IFACEz
+ObjectPathz	ByteArrayz	SignaturezBytezBooleanzInt16zUInt16zInt32zUInt32zInt64zUInt64zDoublezStringzArrayzStructz
+DictionaryzDBusExceptionzMissingErrorHandlerExceptionzMissingReplyHandlerExceptionzValidationExceptionzIntrospectionParserExceptionzUnknownMethodExceptionzNameExistsExceptionzservicezmainloopzlowleveldbus.typesmajor/usr/lib64/python3.8/site-packages/dbus/_compat.py<module dbus._compat>_shared_instancesConstructor, returning an existing instance where appropriate.
+
+        The returned instance is actually always an instance of `SessionBus`,
+        `SystemBus` or `StarterBus`.
+
+        :Parameters:
+            `bus_type` : cls.TYPE_SESSION, cls.TYPE_SYSTEM or cls.TYPE_STARTER
+                Connect to the appropriate bus
+            `private` : bool
+                If true, never return an existing shared instance, but instead
+                return a private connection.
+
+                :Deprecated: since 0.82.3. Use dbus.bus.BusConnection for
+                    private connections.
+
+            `mainloop` : dbus.mainloop.NativeMainLoop
+                The main loop to use. The default is to use the default
+                main loop if one has been set up, or raise an exception
+                if none has been.
+        :Changed: in dbus-python 0.80:
+            converted from a wrapper around a Connection to a Connection
+            subclass.
+        Static method that returns a connection to the starter bus.
+
+        :Parameters:
+            `private` : bool
+                If true, do not return a shared connection.
+        A connection to one of three possible standard buses, the SESSION,
+    SYSTEM, or STARTER bus. This class manages shared connections to those
+    buses.
+
+    If you're trying to subclass `Bus`, you may be better off subclassing
+    `BusConnection`, which doesn't have all this magic.
+    Return a connection to the system bus.
+
+        :Parameters:
+            `private` : bool
+                If true, never return an existing shared instance, but instead
+                return a private connection.
+            `mainloop` : dbus.mainloop.NativeMainLoop
+                The main loop to use. The default is to use the default
+                main loop if one has been set up, or raise an exception
+                if none has been.
+        <%s.%s (%s) at %#x>Bus.get_connection_bus_typeReturn a connection to the session bus.
+
+        :Parameters:
+            `private` : bool
+                If true, never return an existing shared instance, but instead
+                return a private connection.
+            `mainloop` : dbus.mainloop.NativeMainLoop
+                The main loop to use. The default is to use the default
+                main loop if one has been set up, or raise an exception
+                if none has been.
+        Bus.get_systemStatic method that returns a connection to the session bus.
+
+        :Parameters:
+            `private` : bool
+                If true, do not return a shared connection.
+        Bus.__repr__self._connection == self, for backwards
+                           compatibility with earlier dbus-python versions
+                           where Bus was not a subclass of Connection.Bus.get_sessionReturn self, for backwards compatibility with earlier dbus-python
+        versions where Bus was not a subclass of Connection.
+
+        :Deprecated: since 0.80.0
+        unknown bus typeThe session (current login) message bus.Static method that returns a connection to the system bus.
+
+        :Parameters:
+            `private` : bool
+                If true, do not return a shared connection.
+        StarterBus.__new__Bus.close/usr/lib64/python3.8/site-packages/dbus/_dbus.pySessionBus.__new__SystemBus.__new__<module dbus._dbus>Bus.get_startergeneratorsThe bus that activated this process (only valid if
+    this process was launched by DBus activation).
+    Return a connection to the bus that activated this process.
+
+        :Parameters:
+            `private` : bool
+                If true, never return an existing shared instance, but instead
+                return a private connection.
+            `mainloop` : dbus.mainloop.NativeMainLoop
+                The main loop to use. The default is to use the default
+                main loop if one has been set up, or raise an exception
+                if none has been.
+        The system-wide message bus.invalid bus_type %sImplementation for dbus.Bus. Not to be imported directly.in_ifacein_method_Parser.parsebuffer_text<module dbus._expat_introspect_parser>Return a dict mapping ``interface.method`` strings to the
+    concatenation of all their 'in' parameters, and mapping
+    ``interface.signal`` strings to the concatenation of all their
+    parameters.
+
+    Example output::
+
+        {
+            'com.example.SignalEmitter.OneString': 's',
+            'com.example.MethodImplementor.OneInt32Argument': 'i',
+        }
+
+    :Parameters:
+        `data` : str
+            The introspection XML. Must be an 8-bit string of UTF-8.
+    /usr/lib64/python3.8/site-packages/dbus/_expat_introspect_parser.pydirectionattributesxml.parsers.expatStartElementHandlerEndElementHandler_Parser.__init___Parser.StartElementHandler_Parser.EndElementHandlerBusConnection.__new__BusConnection._clean_up_signal_matchNameOwnerChangedA connection to a D-Bus daemon that implements the
+    ``org.freedesktop.DBus`` pseudo-service.
+
+    :Since: 0.81.0
+    type='signal',sender='%s',interface='%s',member='NameOwnerChanged',path='%s',arg0='%%s'NAME_FLAG_DO_NOT_QUEUEREQUEST_NAME_REPLY_IN_QUEUEBusConnection.list_namesListActivatableNamesNameOwnerWatch.cancelget_name_ownerBusConnection.add_signal_receiverBusConnection.add_match_string_non_blockingorg.freedesktop.DBus.Error.NameHasNoOwnererror_cbNameOwnerWatch.__init__AddMatch_new_for_busallow_uniqueget_unix_userNameOwnerWatch.__init__.<locals>.error_cbListNames/usr/lib64/python3.8/site-packages/dbus/bus.pyBusConnection.remove_match_stringBusConnection.remove_match_string_non_blockingREQUEST_NAME_REPLY_ALREADY_OWNERReturn a local proxy for the given remote object.
+
+        Method calls on the proxy are translated into method calls on the
+        remote object.
+
+        :Parameters:
+            `bus_name` : str
+                A bus name (either the unique name or a well-known name)
+                of the application owning the object. The keyword argument
+                named_service is a deprecated alias for this.
+            `object_path` : str
+                The object path of the desired object
+            `introspect` : bool
+                If true (default), attempt to introspect the remote
+                object to find out supported methods and their signatures
+            `follow_name_owner_changes` : bool
+                If the object path is a well-known name and this parameter
+                is false (default), resolve the well-known name to the unique
+                name of its current owner and bind to that instead; if the
+                ownership of the well-known name changes in future,
+                keep communicating with the original owner.
+                This is necessary if the D-Bus API used is stateful.
+
+                If the object path is a well-known name and this parameter
+                is true, whenever the well-known name changes ownership in
+                future, bind to the new owner, if any.
+
+                If the given object path is a unique name, this parameter
+                has no effect.
+
+        :Returns: a `dbus.proxies.ProxyObject`
+        :Raises `DBusException`: if resolving the well-known name to a
+            unique name fails
+        GetNameOwnersignal_cbaddress_or_typeBusConnection.add_signal_receiver.<locals>.callbackRELEASE_NAME_REPLY_NOT_OWNERReturn True iff the given bus name has an owner on this bus.
+
+        :Parameters:
+            `bus_name` : str
+                The bus name to look up
+        :Returns: a `bool`
+        <module dbus.bus>Arrange for this application to receive messages on the bus that
+        match the given rule. This version will not block, but any errors
+        will be ignored.
+
+
+        :Parameters:
+            `rule` : str
+                The match rule
+        :Raises `DBusException`: on error.
+        :Since: 0.80.0
+        Arrange for this application to receive messages on the bus that
+        match the given rule. This version will block.
+
+        :Parameters:
+            `rule` : str
+                The match rule
+        :Raises `DBusException`: on error.
+        :Since: 0.80.0
+        watch_name_ownerold_ownerbus_connnew_ownerRequestNameREQUEST_NAME_REPLY_EXISTSStart a service which will implement the given bus name on this Bus.
+
+        :Parameters:
+            `bus_name` : str
+                The well-known bus name to be activated.
+            `flags` : dbus.UInt32
+                Flags to pass to StartServiceByName (currently none are
+                defined)
+
+        :Returns: A tuple of 2 elements. The first is always True, the
+            second is either START_REPLY_SUCCESS or
+            START_REPLY_ALREADY_RUNNING.
+
+        :Raises `DBusException`: if the service could not be started.
+        :Since: 0.80.0
+        BusConnection.release_name_pending_callBusConnection.request_name_signal_sender_matchesReturn a list of all names that can be activated on the bus.
+
+        :Returns: a dbus.Array of dbus.UTF8String
+        :Since: 0.81.0
+        Request a bus name.
+
+        :Parameters:
+            `name` : str
+                The well-known name to be requested
+            `flags` : dbus.UInt32
+                A bitwise-OR of 0 or more of the flags
+                `NAME_FLAG_ALLOW_REPLACEMENT`,
+                `NAME_FLAG_REPLACE_EXISTING`
+                and `NAME_FLAG_DO_NOT_QUEUE`
+        :Returns: `REQUEST_NAME_REPLY_PRIMARY_OWNER`,
+            `REQUEST_NAME_REPLY_IN_QUEUE`,
+            `REQUEST_NAME_REPLY_EXISTS` or
+            `REQUEST_NAME_REPLY_ALREADY_OWNER`
+        :Raises `DBusException`: if the bus daemon cannot be contacted or
+            returns an error.
+        GetConnectionUnixUserstart_service_by_name©ÚBUS_DAEMON_IFACEÚBUS_DAEMON_NAMEÚBUS_DAEMON_PATHÚBUS_SESSIONÚBUS_STARTERÚ
+BUS_SYSTEMÚ DBUS_START_REPLY_ALREADY_RUNNINGÚDBUS_START_REPLY_SUCCESSÚNAME_FLAG_ALLOW_REPLACEMENTÚNAME_FLAG_DO_NOT_QUEUEÚNAME_FLAG_REPLACE_EXISTINGÚRELEASE_NAME_REPLY_NON_EXISTENTÚRELEASE_NAME_REPLY_NOT_OWNERÚRELEASE_NAME_REPLY_RELEASEDÚ REQUEST_NAME_REPLY_ALREADY_OWNERÚREQUEST_NAME_REPLY_EXISTSÚREQUEST_NAME_REPLY_IN_QUEUEÚ REQUEST_NAME_REPLY_PRIMARY_OWNERÚvalidate_bus_nameÚvalidate_error_nameÚvalidate_interface_nameÚvalidate_member_nameÚvalidate_object_pathNameOwnerWatch.__init__.<locals>.signal_cbReturn a list of all currently-owned names on the bus.
+
+        :Returns: a dbus.Array of dbus.UTF8String
+        :Since: 0.81.0
+        RemoveMatch_NAME_OWNER_CHANGE_MATCHBusConnection.activate_name_ownerBusConnection.name_has_ownerlist_activatable_namesWeakValueDictionaryBusConnection.get_name_ownerReleaseNameNameHasOwner_bus_namesGetNameOwner(%s) failed:Get the numeric uid of the process owning the given bus name.
+
+        :Parameters:
+            `bus_name` : str
+                A bus name, either unique or well-known
+        :Returns: a `dbus.UInt32`
+        :Since: 0.80.0
+        Watch the unique connection name of the primary owner of the
+        given name.
+
+        `callback` will be called with one argument, which is either the
+        unique connection name, or the empty string (meaning the name is
+        not owned).
+
+        :Since: 0.81.0
+        BusConnection.watch_name_ownerBusConnection.list_activatable_namesBusConnection.start_service_by_nameRelease a bus name.
+
+        :Parameters:
+            `name` : str
+                The well-known name to be released
+        :Returns: `RELEASE_NAME_REPLY_RELEASED`,
+            `RELEASE_NAME_REPLY_NON_EXISTENT`
+            or `RELEASE_NAME_REPLY_NOT_OWNER`
+        :Raises `DBusException`: if the bus daemon cannot be contacted or
+            returns an error.
+        Return the unique connection name of the primary owner of the
+        given name.
+
+        :Raises `DBusException`: if the `bus_name` has no owner
+        :Since: 0.81.0
+        BusConnection.get_objectBusConnection.get_unix_userunexpected keyword argument 'utf8_strings'get_destination_path_keyword_int_args_match__ne__SignalMatch.set_sender_name_ownerArrange for the given function to be called when a signal matching
+        the parameters is received.
+
+        :Parameters:
+            `handler_function` : callable
+                The function to be called. Its positional arguments will
+                be the arguments of the signal. By default it will receive
+                no keyword arguments, but see the description of
+                the optional keyword arguments below.
+            `signal_name` : str
+                The signal name; None (the default) matches all names
+            `dbus_interface` : str
+                The D-Bus interface name with which to qualify the signal;
+                None (the default) matches all interface names
+            `bus_name` : str
+                A bus name for the sender, which will be resolved to a
+                unique name if it is not already; None (the default) matches
+                any sender.
+            `path` : str
+                The object path of the object which must have emitted the
+                signal; None (the default) matches any object path
+        :Keywords:
+            `utf8_strings` : bool
+                If True, the handler function will receive any string
+                arguments as dbus.UTF8String objects (a subclass of str
+                guaranteed to be UTF-8). If False (default) it will receive
+                any string arguments as dbus.String objects (a subclass of
+                unicode).
+            `byte_arrays` : bool
+                If True, the handler function will receive any byte-array
+                arguments as dbus.ByteArray objects (a subclass of str).
+                If False (default) it will receive any byte-array
+                arguments as a dbus.Array of dbus.Byte (subclasses of:
+                a list of ints).
+            `sender_keyword` : str
+                If not None (the default), the handler function will receive
+                the unique name of the sending endpoint as a keyword
+                argument with this name.
+            `destination_keyword` : str
+                If not None (the default), the handler function will receive
+                the bus name of the destination (or None if the signal is a
+                broadcast, as is usual) as a keyword argument with this name.
+            `interface_keyword` : str
+                If not None (the default), the handler function will receive
+                the signal interface as a keyword argument with this name.
+            `member_keyword` : str
+                If not None (the default), the handler function will receive
+                the signal name as a keyword argument with this name.
+            `path_keyword` : str
+                If not None (the default), the handler function will receive
+                the object-path of the sending object as a keyword argument
+                with this name.
+            `message_keyword` : str
+                If not None (the default), the handler function will receive
+                the `dbus.lowlevel.SignalMessage` as a keyword argument with
+                this name.
+            `arg...` : unicode or UTF-8 str
+                If there are additional keyword parameters of the form
+                ``arg``\ *n*, match only signals where the *n*\ th argument
+                is the value given for that keyword parameter. As of this
+                time only string arguments can be matched (in particular,
+                object paths and signatures can't).
+            `named_service` : str
+                A deprecated alias for `bus_name`.
+        _dbus_Connection_initialized<%s at %x "%s" on conn %r>_conn_weakref_signal_recipients_by_object_path_member_keywordUnable to set arguments %r according to signature %r: %s: %s_rule<module dbus.connection>_signal_funcConnection.remove_signal_receiver__hash__SignalMatch: arg match index must be in range(64), not %dkwargadd_message_filterA connection to another application. In this base class there is
+    assumed to be no bus daemon.
+
+    :Since: 0.81.0
+    new_namemember='%s'path_keysinterface_keysmember_keysby_interfaceby_memberException in handler for D-Bus signal:arg_typeget_args_listArrange for `callable` to be called with one argument (this
+        Connection object) when the Connection becomes
+        disconnected.
+
+        :Since: 0.83.0
+        _signals_lockSignalMatch: unknown keyword argument %s_utf8_stringsSignalMatch.__hash__SignalMatch.__ne___Connection__call_on_disconnectionsend_message_with_replySignalMatch.__init__handler_or_matchdeletionsCall the given method, synchronously.
+        :Since: 0.81.0
+        Connection.call_on_disconnectionDisconnectedD-Bus filter function. Handle signals by dispatching to Python
+        callbacks kept in the match-rule tree.
+        _sender_keyword_byte_arrays_destination_keyword_interface_keyword_message_keywordConnection._signal_funcget_args_optsmsg_reply_handlerget_senderSignalMatch.__eq__SignalMatch.maybe_handle_messageMethods may not be called on the reserved interface %sget_pathSignalMatch.removeConnection._iter_easy_matchesException in handler for Disconnected signal:send_message_with_reply_and_blockSignalMatch objects are compared by identity.reply_messageget_memberConnection.call_async.<locals>.msg_reply_handlerReturn the unique name for the given bus name, activating it
+        if necessary and possible.
+
+        If the name is already unique or this connection is not to a
+        bus daemon, just return it.
+
+        :Returns: a bus name. If the given `bus_name` exists, the returned
+            name identifies its current owner; otherwise the returned name
+            does not exist.
+        :Raises DBusException: if the implementation has failed
+            to activate the given bus name.
+        :Since: 0.81.0
+        Return a local proxy for the given remote object.
+
+        Method calls on the proxy are translated into method calls on the
+        remote object.
+
+        :Parameters:
+            `bus_name` : str
+                A bus name (either the unique name or a well-known name)
+                of the application owning the object. The keyword argument
+                named_service is a deprecated alias for this.
+            `object_path` : str
+                The object path of the desired object
+            `introspect` : bool
+                If true (default), attempt to introspect the remote
+                object to find out supported methods and their signatures
+
+        :Returns: a `dbus.proxies.ProxyObject`
+        matches_removal_specSignalMatch.__repr__Connection.call_blockingSignalMatch.__str__arg%d='%s'Call the given method, asynchronously.
+
+        If the reply_handler is None, successful replies will be ignored.
+        If the error_handler is None, failures will be ignored. If both
+        are None, the implementation may request that no reply is sent.
+
+        :Returns: The dbus.lowlevel.PendingCall.
+        :Since: 0.81.0
+        get_error_name/usr/lib64/python3.8/site-packages/dbus/connection.pySignalMatch.matches_removal_specUnexpected type for reply message: %rSignalMatch.<lambda>Connection.__init__Passing the named_service parameter to remove_signal_receiver by name is deprecated: please use positional parametersValidationException.__init__MissingReplyHandlerException.__init__include_traceback_dbus_error_nameDBusException does not take keyword arguments: %sMissingErrorHandlerException.__init__Error parsing introspect data: %sget_dbus_messageDBusException.__unicode__Bus name already exists: %serror_handler not defined: if you define a reply_handler you must also define an error_handler<module dbus.exceptions>Error validating string: %sDBusException.get_dbus_messageIntrospectionParserException.__init__Return a str errororg.freedesktop.DBus.Error.UnknownMethodUnknownMethodException.__init__D-Bus exceptions.DBusException.get_dbus_nameReturn a unicode error/usr/lib64/python3.8/site-packages/dbus/exceptions.pyDBusException.__init__Unknown method: %sreply_handler not defined: if you define an error_handler you must also define a reply_handlerDBusException.__str__NameExistsException.__init__MESSAGE_TYPE_ERRORHANDLER_RESULT_HANDLED<module dbus.lowlevel>MESSAGE_TYPE_INVALIDMESSAGE_TYPE_METHOD_CALLMESSAGE_TYPE_METHOD_RETURNMESSAGE_TYPE_SIGNALLow-level interface to D-Bus./usr/lib64/python3.8/site-packages/dbus/lowlevel.pyNULL_MAIN_LOOPWATCH_READABLEWATCH_WRITABLEWATCH_HANGUPWATCH_ERROR/usr/lib64/python3.8/site-packages/dbus/mainloop/__init__.pyBase definitions, etc. for main loop integration.
+
+<module dbus.mainloop>GLib main loop integration using libdbus-glib._dbus_glib_bindings/usr/lib64/python3.8/site-packages/dbus/mainloop/glib.pyInitialize threads in dbus-glib, if this has not already been done.
+
+    This must be called before creating a second thread in a program that
+    uses this module.
+    <module dbus.mainloop.glib>_method_nameget_dbus_methodProxyObject._IntrospectProxyObject._introspect_error_handler_introspect_reply_handler<ProxyObject wrapping %s %s %s at %#x>proxy_methodProxyMethodClassProxyObject._introspect_blockExecuting introspect queue due to error_introspect_state_introspect_execute_queuePassing the bus parameter to ProxyObject by name is deprecated: please use positional parametersproxy_objectProxyObject.get_dbus_methodInterface.get_dbus_methodProxyObject.__init__Construct a proxy for the given interface on the given object.
+
+        :Parameters:
+            `object` : `dbus.proxies.ProxyObject` or `dbus.Interface`
+                The remote object or another of its interfaces
+            `dbus_interface` : str
+                An interface the `object` implements
+        Return a proxy method representing the given D-Bus method.
+
+        This is the same as `dbus.proxies.ProxyObject.get_dbus_method`
+        except that if `dbus_interface` is None (the default),
+        the D-Bus interface that was passed to the `Interface` constructor
+        is used.
+        ProxyObject.__init__ does not take these keyword arguments: %sProxyObject._introspect_add_to_queueA proxy to the remote Object.
+
+    A ProxyObject is provided by the Bus. ProxyObjects
+    have member functions, and can be called like normal Python objects.
+    The bus name which was requested when this proxy was
+            instantiated.
+            <Interface %r implementing %r at %#x>Initialize the proxy object.
+
+        :Parameters:
+            `conn` : `dbus.connection.Connection`
+                The bus or connection on which to find this object.
+                The keyword argument `bus` is a deprecated alias for this.
+            `bus_name` : str
+                A bus name for the application owning the object, to be used
+                as the destination for method calls and the sender for
+                signal matches. The keyword argument ``named_service`` is a
+                deprecated alias for this.
+            `object_path` : str
+                The object path at which the application exports the object
+            `introspect` : bool
+                If true (default), attempt to introspect the remote
+                object to find out supported methods and their signatures
+            `follow_name_owner_changes` : bool
+                If true (default is false) and the `bus_name` is a
+                well-known name, follow ownership changes for that name
+        Interface.<lambda>_DeferredMethod.call_asyncPassing the named_service parameter to ProxyObject by name is deprecated: please use positional parametersProxyObject._introspect_reply_handlerThe D-Bus object path of the underlying objectINTROSPECT_STATE_DONT_INTROSPECTA proxy method which will only get called once we have its
+    introspection reply.
+    INTROSPECT_STATE_INTROSPECT_DONEignore_reply_dbus_interfaceThe bus name to which this proxy is bound. (Read-only,
+            may change.)
+
+            If the proxy was instantiated using a unique name, this property
+            is that unique name.
+
+            If the proxy was instantiated with a well-known name and with
+            ``follow_name_owner_changes`` set false (the default), this
+            property is the unique name of the connection that owned that
+            well-known name when the proxy was instantiated, which might
+            not actually own the requested well-known name any more.
+
+            If the proxy was instantiated with a well-known name and with
+            ``follow_name_owner_changes`` set true, this property is that
+            well-known name.
+            requested_bus_name_DeferredMethod.__call__Return a proxy method representing the given D-Bus method. The
+        returned proxy method can be called in the usual way. For instance, ::
+
+            proxy.get_dbus_method("Foo", dbus_interface='com.example.Bar')(123)
+
+        is equivalent to::
+
+            proxy.Foo(123, dbus_interface='com.example.Bar')
+
+        or even::
+
+            getattr(proxy, "Foo")(123, dbus_interface='com.example.Bar')
+
+        However, using `get_dbus_method` is the only way to call D-Bus
+        methods with certain awkward names - if the author of a service
+        implements a method called ``connect_to_signal`` or even
+        ``__getattr__``, you'll need to use `get_dbus_method` to call them.
+
+        For services which follow the D-Bus convention of CamelCaseMethodNames
+        this won't be a problem.
+        The D-Bus interface represented<module dbus.proxies>ProxyObject.<lambda>_DeferredMethod.__init__/usr/lib64/python3.8/site-packages/dbus/proxies.pyProxyObject.__getattr___pending_introspect_queue_proxy_methodInterface.connect_to_signal_requested_bus_name_ProxyMethod.call_async_ProxyMethod.__call__A proxy method.
+
+    Typically a member of a ProxyObject. Calls to the
+    method produce messages that travel over the Bus and are routed
+    to a specific named Service.
+    ProxyObject.connect_to_signalInterface.__init___named_serviceThe object-path of this proxy.ProxyObject.__repr___introspect_method_mapInterface.__getattr__The bus name to which the underlying proxy object is bound_introspect_lockArrange for a function to be called when the given signal is
+        emitted.
+
+        The parameters and keyword arguments are the same as for
+        `dbus.proxies.ProxyObject.connect_to_signal`, except that if
+        `dbus_interface` is None (the default), the D-Bus interface that
+        was passed to the `Interface` constructor is used.
+        Arrange for the given function to be called when the given signal
+        is received.
+
+        :Parameters:
+            `signal_name` : str
+                The name of the signal
+            `handler_function` : callable
+                A function to be called when the signal is emitted by
+                the remote object. Its positional arguments will be the
+                arguments of the signal; optionally, it may be given
+                keyword arguments as described below.
+            `dbus_interface` : str
+                Optional interface with which to qualify the signal name.
+                If None (the default) the handler will be called whenever a
+                signal of the given member name is received, whatever
+                its interface.
+        :Keywords:
+            `utf8_strings` : bool
+                If True, the handler function will receive any string
+                arguments as dbus.UTF8String objects (a subclass of str
+                guaranteed to be UTF-8). If False (default) it will receive
+                any string arguments as dbus.String objects (a subclass of
+                unicode).
+            `byte_arrays` : bool
+                If True, the handler function will receive any byte-array
+                arguments as dbus.ByteArray objects (a subclass of str).
+                If False (default) it will receive any byte-array
+                arguments as a dbus.Array of dbus.Byte (subclasses of:
+                a list of ints).
+            `sender_keyword` : str
+                If not None (the default), the handler function will receive
+                the unique name of the sending endpoint as a keyword
+                argument with this name
+            `destination_keyword` : str
+                If not None (the default), the handler function will receive
+                the bus name of the destination (or None if the signal is a
+                broadcast, as is usual) as a keyword argument with this name.
+            `interface_keyword` : str
+                If not None (the default), the handler function will receive
+                the signal interface as a keyword argument with this name.
+            `member_keyword` : str
+                If not None (the default), the handler function will receive
+                the signal name as a keyword argument with this name.
+            `path_keyword` : str
+                If not None (the default), the handler function will receive
+                the object-path of the sending object as a keyword argument
+                with this name
+            `message_keyword` : str
+                If not None (the default), the handler function will receive
+                the `dbus.lowlevel.SignalMessage` as a keyword argument with
+                this name.
+            `arg...` : unicode or UTF-8 str
+                If there are additional keyword parameters of the form
+                ``arg``\ *n*, match only signals where the *n*\ th argument
+                is the value given for that keyword parameter. As of this time
+                only string arguments can be matched (in particular,
+                object paths and signatures can't).
+        INTROSPECT_STATE_INTROSPECT_IN_PROGRESSIntrospect error on %s:%s: %s.%s: %sProxyObject._introspect_execute_queue_ProxyMethod.__init___appendThe underlying proxy objectInterface.__repr____dbus_object_path__The bus name which was requested when the underlying object was createdignore_reply and reply_handler cannot be used togetherDeferredMethodClassAn interface into a remote object.
+
+    An Interface can be used to wrap ProxyObjects
+    so that calls can be routed to their correct
+    D-Bus interface.
+    dummy_threadingconn and bus cannot both be specified<module dbus.types>UnixFd/usr/lib64/python3.8/site-packages/dbus/types.py/usr/lib64/python3.8/site-packages/gi/__init__.py{0}.{1}.{2}gtkNamespace %s not available for version %spygobject_version Utility function for consolidating multiple `gi.require_version()` calls.
+
+    :param requires: The names and versions of modules to require.
+    :type requires: dict
+
+    :Example:
+
+    .. code-block:: python
+
+        import gi
+        gi.require_versions({'Gtk': '3.0', 'GLib': '2.0', 'Gio': '2.0'})
+    Namespace %s already requires version %smodule_version Ensures the correct versions are loaded when importing `gi` modules.
+
+    :param namespace: The name of module to require.
+    :type namespace: str
+    :param version: The version of module to require.
+    :type version: str
+    :raises ValueError: If module/version is already loaded, already required, or unavailable.
+
+    :Example:
+
+    .. code-block:: python
+
+        import gi
+        gi.require_version('Gtk', '3.0')
+
+    require_foreigngi._gobject_DummyStaticModule.__getattr__loaded_version<module gi>available_versionsWhen using gi.repository you must not import static modules like "gobject". Please change all occurrences of "import gobject" to "from gi.repository import GObject". See: https://bugzilla.gnome.org/show_bug.cgi?id=709183Namespace version needs to be a string.register_foreignNamespace %s is already loaded with version %spygobject's version %s required, and available version %s is not recent enoughdirname_PyGObject_APImodule_namegioget_loaded_namespacescheck_versiongtk.gdkversion_list_overridesdirEnsure the given foreign marshaling module is available and loaded.
+
+    :param str namespace:
+        Introspection namespace of the foreign module (e.g. "cairo")
+    :param symbol:
+        Optional symbol typename to ensure a converter exists.
+    :type symbol: str or None
+    :raises: ImportError
+
+    :Example:
+
+    .. code-block:: python
+
+        import gi
+        import cairo
+        gi.require_foreign('cairo')
+
+    cmp/usr/lib64/python3.8/site-packages/gi/_compat.pyPY2def reraise(tp, value, tb):
+ raise tp, value, tbevalUserList 	StringIOxrangetext_type(basestring,)with_traceback(int, long)<module gi._compat>integer_typesreload<string>PY3gchararrayGStrvTYPE_UNICHARgint64guchargpointerguint64<module gi._constants>gulonggfloatgbooleangdoubleGVariantfrom_nameGParamglongPyObject/usr/lib64/python3.8/site-packages/gi/_constants.pyPARAM_READWRITEprops_readonly_setter_get_maximumpspecProperty.__repr__Property._get_maximumProperty._get_defaultminimumProperty.__init__
+    Scans the given class for instances of Property and merges them
+    into the classes __gproperties__ dict if it exists or adds it if not.
+    nickobj_get_propertyobject types does not have default values©Ú	TYPE_NONEÚTYPE_INTERFACEÚ	TYPE_CHARÚ
+TYPE_UCHARÚTYPE_BOOLEANÚTYPE_INTÚ	TYPE_UINTÚ	TYPE_LONGÚ
+TYPE_ULONGÚ
+TYPE_INT64ÚTYPE_UINT64Ú	TYPE_ENUMÚ
+TYPE_FLAGSÚ
+TYPE_FLOATÚTYPE_DOUBLEÚTYPE_STRINGÚTYPE_POINTERÚ
+TYPE_BOXEDÚ
+TYPE_PARAMÚTYPE_OBJECTÚTYPE_PYOBJECTÚ
+TYPE_GTYPEÚ	TYPE_STRVÚTYPE_VARIANTptypeProperty %s was already found in __gproperties__fsetCreates a new Property which when used in conjunction with
+    GObject subclass will create a Python property accessor for the
+    GObject ParamSpec.
+
+    :param callable getter:
+        getter to get the value of the property
+    :param callable setter:
+        setter to set the value of the property
+    :param type type:
+        type of property
+    :param default:
+        default value, must match the property type.
+    :param str nick:
+        short description
+    :param str blurb:
+        long description
+    :param GObject.ParamFlags flags:
+        parameter flags
+    :keyword minimum:
+        minimum allowed value (int, float, long only)
+    :keyword maximum:
+        maximum allowed value (int, float, long only)
+
+    .. code-block:: python
+
+         class MyObject(GObject.Object):
+             prop = GObject.Property(type=str)
+
+         obj = MyObject()
+         obj.prop = 'value'
+
+         obj.prop  # now is 'value'
+
+    The API is similar to the builtin :py:func:`property`:
+
+    .. code-block:: python
+
+        class AnotherObject(GObject.Object):
+            value = 0
+
+            @GObject.Property
+            def prop(self):
+                'Read only property.'
+                return 1
+
+            @GObject.Property(type=int)
+            def propInt(self):
+                'Read-write integer property.'
+                return self.value
+
+            @propInt.setter
+            def propInt(self, value):
+                self.value = value
+    flags value %s must be an instance of %rAllows application of the getter along with init arguments.fgetinstall_properties.<locals>.obj_set_property<class 'GObject.Property'>Property._default_getterinstall_properties.<locals>.obj_get_propertyProperty.__call__Property.getterSet the setter function to fset. For use as a decorator._check_default<module gi._propertyhelper>Property._readonly_setterProperty.__set__(uninitialized)_default_setternick must be a stringget_pspec_args_min_value_lookupProperty._check_default_type_from_pythonProperty._writeonly_getterblurb must be a stringStrv value %s must be a list_default_lookupProperty.get_pspec_args_type_from_pytype_lookupdefault must be True or False, not %rProperty.__metaclass__.__repr__Unsupported type: %r_get_minimumGObject subclass %r defines do_get/set_property and it also uses a property with a custom setter or getter. This is not alloweddo_get_property%s property of %s is read-only_property_helper_Property._type_from_pythonProperty.setter_max_value_lookup<GObject Property %s (%s)>%s property of %s is write-onlySet the getter function to fget. For use as a decorator.Property._get_minimumMinimum for type %s cannot be lower than %dProperty._default_setterenum properties needs a default value/usr/lib64/python3.8/site-packages/gi/_propertyhelper.pyenum value %s must be an instance of %rStrv value %s must contain only stringsvariant value %s must be an instance of %rProperty.__get__Maximum for type %s cannot be higher than %dGType types does not have default valuesdo_set_propertyhandler_id
+        Temporary binding object which can be used for connecting signals
+        without specifying the signal name string to connect.
+        SignalOverrideReturns a tuple of: (flags, return_type, arg_types, accumulator, accu_data)Same as GObject.Object.connect except there is no need to specify
+            the signal name.Signal.__get__Returns a BoundSignal when accessed on an object instance.Attempt pulling python 3 function annotations off of 'func' for
+    use as a signals type information. Returns an ordered nested tuple
+    of (return_type, (arg_type1, arg_type2, ...)). If the given function
+    does not have annotations then (None, tuple()) is returned.
+    Signal.__call__newsignalsSignal.copy<module gi._signalhelper>/usr/lib64/python3.8/site-packages/gi/_signalhelper.pySignal.BoundSignal.__repr__newNameReturns the string 'override'.Signal.BoundSignal.__init__connect_detailedObject which gives a nice API for creating and binding signals.
+
+    :param name:
+        Name of signal or callable closure when used as a decorator.
+    :type name: str or callable
+    :param callable func:
+        Callable closure method.
+    :param GObject.SignalFlags flags:
+        Flags specifying when to run closure.
+    :param type return_type:
+        Return type of the Signal.
+    :param list arg_types:
+        List of argument types specifying the signals function signature
+    :param str doc:
+        Documentation of signal object.
+    :param callable accumulator:
+        Accumulator method with the signature:
+        func(ihint, return_accu, handler_return, accu_data) -> boolean
+    :param object accu_data:
+        User data passed to the accumulator.
+
+    :Example:
+
+    .. code-block:: python
+
+        class Spam(GObject.Object):
+            velocity = 0
+
+            @GObject.Signal
+            def pushed(self):
+                self.velocity += 1
+
+            @GObject.Signal(flags=GObject.SignalFlags.RUN_LAST)
+            def pulled(self):
+                self.velocity -= 1
+
+            stomped = GObject.Signal('stomped', arg_types=(int,))
+
+            @GObject.Signal
+            def annotated_signal(self, a:int, b:str):
+                "Python3 annotation support for parameter types.
+
+        def on_pushed(obj):
+            print(obj)
+
+        spam = Spam()
+        spam.pushed.connect(on_pushed)
+        spam.pushed.emit()
+    Same as GObject.Object.disconnect.Signal "%s" has already been registered.Signal.__new__kargsAllows for instantiated Signals to be used as a decorator or calling
+        of the underlying signal method.get_signal_argsSignal.get_signal_argsSignal.BoundSignal.__call__Adds Signal instances on a GObject derived class into the '__gsignals__'
+    dictionary to be picked up and registered as real GObject signals.
+    signalNameReturns a renamed copy of the Signal.Signal.BoundSignal.disconnectSignal.BoundSignal.__new__Same as GObject.Object.emit except there is no need to specify
+            the signal name.Specialized sub-class of Signal which can be used as a decorator for overriding
+    existing signals on GObjects.
+
+    :Example:
+
+    .. code-block:: python
+
+        class MyWidget(Gtk.Widget):
+            @GObject.SignalOverride
+            def configure_event(self):
+                pass
+    SignalOverride.get_signal_argsSignal.BoundSignal.connectSignal.BoundSignal.emitgetfullargspecSame as GObject.Object.connect except there is no need to specify
+            the signal name. In addition concats "::<detail>" to the signal name
+            when connecting; for use with notifications like "notify" when a property
+            changes.
+            get_signal_annotations.<locals>.<genexpr>Signal.BoundSignal.connect_detailedCall the signals closure.SIGNAL_RUN_FIRSTBoundSignal("%s")GHASHhint_blacklist%s(%s) -> %sSet doc string generator function
+
+    :param callable func:
+        Callable which takes a GIInfoStruct and returns documentation for it.
+    ARRAYis_methodINT32get_tag_as_stringignore_indicesINT8(**properties)
+get_typein_args_strget_array_lengthVOIDmay_be_nullGSLISTReturns the currently registered doc string generator.user_data_indices/usr/lib64/python3.8/site-packages/gi/docstring.pyheaderis_optional_generate_doc_dispatch<module gi.docstring>get_destroyinfo_namereturn_hintmay_return_nullout_args_strsUINT16enumerateUINT32gi_typeGLISTargstrFILENAMEGenerate a doc string given a GIInfoStruct.
+
+    :param gi.types.BaseInfo info:
+        GI info instance to generate documentation for.
+    :returns:
+        Generated documentation as a string.
+    :rtype: str
+
+    This passes the info struct to the currently registered doc string
+    generator and returns the result.
+    in_args_strsskip_return=<optional>get_return_typeget_directionget_doc_string_generatorOUTget_closure
+:Constructors:
+
+::
+
+UINT8=None<module gi.importer>DynamicImporter.__init__is_registeredpy_versionReturns the stacklevel value for warnings.warn() for when the warning
+    gets emitted by an imported module, but the warning should point at the
+    code doing the import.
+
+    Pass import_hook=True if the warning gets generated by an import hook
+    (warn() gets called in load_module(), see PEP302)
+    contextlibfullnamecannot import name %s, introspection typelib not foundDynamicImporter.load_moduleDynamicImporter.find_moduleA context manager which tries to give helpful warnings
+    about missing gi.require_version() which could potentially
+    break code if only an older version than expected is installed
+    or a new version gets introduced.
+
+    ::
+
+        with _check_require_version("Gtk", stacklevel):
+            load_namespace_and_overrides()
+    <%s>get_immediate_dependencies%(namespace)s was imported without specifying a version first. Use gi.require_version('%(namespace)s', '%(version)s') before import to ensure that the right version gets loaded.dynamic_modulewas_loaded/usr/lib64/python3.8/site-packages/gi/importer.pyget_typelib_pathget_name_unescapednamespace_infosget_values
+    :Returns:
+        An object directly wrapping the gi module without overrides.
+
+    Might raise gi._gi.RepositoryError
+    abcdefgjhijklmnopqrstuvwxyzABCDEFGJHIJKLMNOPQRSTUVWXYZfundamental%r object has no attribute %rIntrospectionModule.__repr__IntrospectionModule.__dir__object_infoparent_object_infoget_infosIntrospectionModule.__init__/usr/lib64/python3.8/site-packages/gi/module.pyunable to create a wrapper for %s.%sis_flagsascii_upper_transvalue_info<IntrospectionModule %r from %r><module gi.module>IntrospectionModule.__getattr__IntrospectionModule.__dir__.<locals>.<genexpr>An object which wraps an introspection typelib.
+
+    This wrapping creates a python module like representation of the typelib
+    using gi repository as a foundation. Accessing attributes of the module
+    will dynamically pull them in and create wrappers for the members.
+    These members are then cached on this introspection module.
+    find_by_namevalue_nameIntrospectionModule.__getattr__.<locals>.<genexpr>OverridesProxyModule.__init____delete__OverridesProxyModule.__getattr__Can not override a type %s, which is not in a gobject introspection typelibnew_initFunctionTypearg_namesold_modulesorteddeprecated_defaultssuper_init_funcfnYou have tried override outside of the overrides module. This is not allowed (%s, %s)%s is deprecated; use %s insteadcategoryreplacement_DeprecatedAttribute.__get__override_package_nameoverridefuncoverride_moddefaults_usedfunc must be a gi function, got %s_warningaliases_usedcall failedLoads overrides for an introspection module.
+
+    Either returns the same module again in case there are no overrides or a
+    proxy module including overrides. Doesn't cache the result.
+    item%s.%s is deprecated; use %s insteadstrip_boolean_result.<locals>.wrappedexc_strnew_kwargsexc_type/usr/lib64/python3.8/site-packages/gi/overrides_DeprecatedAttribute.__delete__deprecated_aliasesWrapper for deprecating GObject based __init__ methods which specify
+    defaults already available or non-standard defaults.
+
+    :param callable super_init_func:
+        Initializer to wrap.
+    :param list arg_names:
+        Ordered argument name list.
+    :param list ignore:
+        List of argument names to ignore when calling the wrapped function.
+        This is useful for function which take a non-standard keyword that is munged elsewhere.
+    :param dict deprecated_aliases:
+        Dictionary mapping a keyword alias to the actual g_object_newv keyword.
+    :param dict deprecated_defaults:
+        Dictionary of non-standard defaults that will be used when the
+        keyword is not explicitly passed.
+    :param Exception category:
+        Exception category of the error.
+    :param int stacklevel:
+        Stack level for the deprecation passed on to warnings.warn
+    :returns: Wrapped version of ``super_init_func`` which gives a deprecation
+        warning when non-keyword args or aliases are used.
+    :rtype: callable
+    Using positional arguments with the GObject constructor has been deprecated. Please specify keyword(s) for "%s" or use a class specific constructor. See: https://wiki.gnome.org/PyGObject/InitializerDeprecations%s was set deprecated but wasn't added to __all__Wraps a introspection module and contains all overridesfail_retmodule_keyhas_oldproxy_typeoverride_loaderoverride_allDecorator for marking methods and classes as deprecated<module gi.overrides>deprecated_init.<locals>.new_init.<locals>.<genexpr>override.<locals>.wrapperMarks a module level attribute as deprecated. Accessing it will emit
+    a PyGIDeprecationWarning warning.
+
+    e.g. for ``deprecated_attr("GObject", "STATUS_FOO", "GLib.Status.FOO")``
+    accessing GObject.STATUS_FOO will emit:
+
+        "GObject.STATUS_FOO is deprecated; use GLib.Status.FOO instead"
+
+    :param str namespace:
+        The namespace of the override this is called in.
+    :param str namespace:
+        The attribute name (which gets added to __all__).
+    :param str replacement:
+        The replacement text which will be included in the warning.
+    _DeprecatedAttribute.__set__deprecated.<locals>.wrapped/usr/lib64/python3.8/site-packages/gi/overrides/__init__.pyOverridesProxyModule.__dir__Initializer for a GObject based classes with support for property
+        sets through the use of explicit keyword arguments.
+        Initializer is relying on deprecated non-standard defaults. Please update to explicitly use: %s See: https://wiki.gnome.org/PyGObject/InitializerDeprecations<%s %r>%s=%sA deprecation descriptor for OverridesProxyModule subclasses.
+
+    Emits a PyGIDeprecationWarning on every access and tries to act as a
+    normal instance attribute (can be replaced and deleted).
+    The keyword(s) "%s" have been deprecated in favor of "%s" respectively. See: https://wiki.gnome.org/PyGObject/InitializerDeprecations_overrides_module_DeprecatedAttribute.__init__Translate method's return value for stripping off success flag.
+
+    There are a lot of methods which return a "success" boolean and have
+    several out arguments. Translate such a method to return the out arguments
+    on success and None on failure.
+    OverridesProxyModule.__repr__Decorator for registering an override.
+
+    Other than objects added to __all__, these can get referenced in the same
+    override module via the gi.repository module (get_parent_for_object() does
+    for example), so they have to be added to the module immediately.
+    /usr/lib64/python3.8/site-packages/gi/repositorymeta_path<module gi.repository>/usr/lib64/python3.8/site-packages/gi/repository/__init__.pyis_gi_definedis_python_definedvfunc_nameset_valueaklass([a-z0-9])([A-Z])Meta class used for GI GObject based types.Meta class used for GI Struct based types._setup_vfuncsCompute the class precedence list (mro) according to C3, with GObject
+    interface considerations.
+
+    We override Python's MRO calculation to account for the fact that
+    GObject classes are not affected by the diamond problem:
+    http://en.wikipedia.org/wiki/Diamond_problem
+
+    Based on http://www.python.org/download/releases/2.3/mro/
+    gi.repository.GObject\1_\2class_structMetaClassHelper._setup_constantsbases_of_subclassesget_fieldsget_type_nameGObjectMeta.__init__GObjectMeta.mrocandidatedo_%s_%s_GObjectMetaBase.__init__StructMeta.__doc__Cannot create a consistent method resolution order (MRO)constant_info_setup_class_methods_GObjectMetaBase._type_register<module gi.types>_setup_methodsget_constants_setup_native_vfuncs/usr/lib64/python3.8/site-packages/gi/types.pys1base_name_install_metaclassget_vfuncsMetaClassHelper._setup_native_vfuncspy_vfuncskip_ambiguity_checkambiguous_basebase_infoMetaClassHelper._setup_class_methodssubclass_basesnot_head(.)([A-Z][a-z]+)field_infoMethod %s() on class %s.%s is ambiguous with methods in base classes %s.%s and %s.%sMixin class %s is an old style class, please update this to derive from "object".MetaClassHelper._setup_vfuncs__bases__GObjectMeta.__doc__MetaClassHelper._setup_methodsStructMeta.__init__get_container__gtype_name___setup_fieldsMetaclass for automatically registering GObject classes.__mro__get_class_structMeta class property which shows up on any class using this meta-class.MetaClassHelper._setup_fieldsProblem.path Kerneloops problem __castProblem.__setattr__ Add pid, gid and executable of current
+        process to this problem object
+
+         Assures ownership of a problem for the caller {0}={1}
+Runtime.__init__ Selinux problem Problem.short_id Python3 problem Python.__init__Problem.add_current_environment Return ``ProblemWatcher`` object which can be used
+    to attach callbacks called when new problem is created
+
+    Use ``auth=True`` if authentication should be attempted for
+    new problem that doesn't belong to current user. If not
+    set such a problem is ignored.
+
+    Problem.__delitem__Problem.not_reportable_Problem__castÛ!   z	componentzhostnamez
+os_releasezuidzusernamezarchitecturezkernelzpackageztimezcountzpkg_archzpkg_namez	pkg_epochzpkg_versionzpkg_releasezuuidzcgroupzcore_backtracez	backtracezdso_listzexploitablezmapszcmdlinezenvironzopen_fdszpidzproc_pid_statuszlimitszvar_log_messageszsuspend_statszreported_toz	event_logzdmesg C, C++ problem reverse Create this problem or update modified data
+
+        Create or update the project if some of its fields
+        were modified.
+
+        Return ``None`` in case of modification, identifier
+        if new problem was created.
+
+        Xorg.__init__CCppProblem.itemshexdigest__proxy Java problem Problem.not_reportable_reason Delete this problem /usr/lib64/python3.8/site-packages/problem/__init__.pyProblem.__getitem__ Add environment of current process to this problem object Problem.saveProblem.__setitem___dirty_dataruntime Xorg problem prefetch_datanot-reportableProblem.idPython3.__init___pyabrtproblem._py3abrt Prefetch possible data fields of this problem  Return the list of the problems
+
+    Use ``auth=True`` if authentication should be attempted.
+
+    If authentication via polkit fails, function behaves
+    as if ``auth=False`` was specified (only users problems are
+    returned).
+     Return problem object matching ``identifier``
+
+    Return ``None`` in case the problem does not exist.
+    Use ``auth=True`` if authentication should be attempted.
+
+    str_dataxorgCcpp.__init__Problem.__cast.<locals>.<lambda>__delattr__UNKNOWNMissing required field {0} Runtime problem Problem.prefetch_data<problem.{0} ({1})>selinuxProblem.__getattr__Problem.chownjavarevfunProblem.deleteSelinux.__init__<module problem>add_current_process_dataProblem.add_current_process_datasha1Problem.__repr__
+    Base class for the other problem types.
+
+    No need to use this class directly, use one
+    of the specific problem classes.
+
+    Kerneloops.__init__Problem.__delattr__Problem.validateUnknown.__init__getgidobject has no attribute '{0}' Unknown problem Problem.__init__libreportJava.__init__ Python problem /usr/lib64/python3.8/site-packages/problem/config.py/var/spool/abrt<module problem.config>/usr/lib64/python3.8/site-packages/problem/exception.py<module problem.exception>UnavailableSourcePolkitSocketProxy.deleteisdirGetProblemsSocketProxy.get_problem_watcherproblem_dictChownProblemDirSetElementload_textDD_LOAD_TEXT_RETURN_NULL_ON_FAILUREdd_opendirUnixProcessDBus not foundDD_FAIL_QUIETLY_EACCESDBusProxy.deleteDBusProxy.__init__dump_dirDBusProxy.chownDeleteElementUnable to get dbus proxy: {0}FsProxy.deletefun_namedbnamecommunication with daemon failed: {0}directoryPUT / HTTP/1.1
+
+DBusProxy.set_itemst_uidFsProxy.list_allNewProblemorg.freedesktop.problems.InvalidProblemDirFsProxy._open_ddirRUN_IN_THREADPolkitAgentsockCalling {0} with {1}DBusProxy.createSocketProxy.del_itemdelete_itemR_OKlistdir_dbus_callCan't open directory: {0}save_textFsProxy.del_itemDBusProxy.connectDBusProxy.__new__{0}={1} DD_FAIL_QUIETLY_ENOENTSocketProxy.createst_gid/usr/lib64/python3.8/site-packages/problem/proxies.pyGetAllProblemsdir_entrydir_statSocketProxy.get_itemTextListenersubjectDBusProxy.del_itemSocketProxy.listUnable to get dbus interface: {0}GetInfoDBusProxy.get_itemDBusProxy._dbus_callDD_OPEN_READONLYorg.freedesktop.DBus.Error.ServiceUnknowncreate_dump_dirSocketProxy.set_item<module problem.proxies>org.freedesktop.problems.AuthFailure_DBusProxy__instanceSocketProxy.list_allagentnotify_new_pathFsProxy.get_itemprobdDeleteProblem/org/freedesktop/PolicyKit1/AuthenticationAgentDBusProxy.listDBusProxy.list_allRegisterFlagsFsProxy.__init__FsProxy.createFsProxy.set_itemclass_name/usr/lib64/python3.8/site-packages/problem/tools.pycapitalizeprobdir<module problem.tools>by_typ<module problem.watch> Add callback to be called when new problem occurs.
+
+        Each callback function receives ``Problem`` instance
+
+        ProblemWatcher.add_callbackNew problem notification receivedevt_matchevt_match_old_pathProblemWatcher.__init__ProblemWatcher.quit/com/redhat/abrtCrash Start event listener loop  New problem signal handler attached to DBus signal
+
+    Use ``auth=True`` if authentication should be attempted for
+    new problem that doesn't belong to current user. If not
+    set such a problem is ignored.
+
+    Auth disabled, ignoring crash with uid: {0}ProblemWatcher.runProblemWatcher._new_problem_handler/usr/lib64/python3.8/site-packages/problem/watch.py Stop event listener loop /usr/lib64/python3.8/site-packages/pyanaconda_frozen_importlib_external_NamespacePath/usr/lib64/python3.8/site-packages/reportmissing argument {0}report.io/usr/lib64/python3.8/site-packages/report/__init__.pyREDHAT_SUPPORT_PRODUCT_VERSIONproductVersionHelper function handling a single event
+
+    Keyword arguments:
+    envet_name -- a name of handled event
+    problem_dir -- a path to problem directory
+
+    Returns pair, return value of run_event_state and
+    return value of run_event_on_dir_name
+
+    /etc/os-releaseRed Hat Enterprise LinuxREDHAT_BUGZILLA_PRODUCT_VERSIONVERSION_IDmandatory_argsRawhideadd_basics_pyreport/etc/system-releaseSYSTEM_OS_RELEASE_FILEFedoraalertSignaturecreatePythonUnhandledExceptionSignatureproductNameredhat-releaseeach_pathSYSTEM_RELEASE_DEPSfilepathosrelosrelfiladd_current_proccesshashvaluereport._py3reportdump_dir_nameevent_name<module report>hashmarkernamesummarycontent release osreleaselineskvpfile_pathrawhidecreateAlertSignatureresumeAttempt to determine the product of the running system at first attempt
+       from the release configuration file or if the first attempt fails by
+       asking anaconda
+       Always return as a string.
+    /etc/redhat-releaserun_event_on_problem_dirAttempt to determine the version of the running system at first attempt
+       from the release configuration file or if the first attempt fails by
+       asking anaconda
+       Always return as a string.
+    <module report.io>/usr/lib64/python3.8/site-packages/report/io/__init__.pyGTKIO.__init__<module report.io.GTKIO>loginManager/usr/lib64/python3.8/site-packages/report/io/GTKIO.py<module report.io.NewtIO>/usr/lib64/python3.8/site-packages/report/io/NewtIO.pyNewtIO.__init__/usr/lib64/python3.8/site-packages/report/io/TextIO.pyreport.io.TextIO<module report.io.TextIO>/usr/lib64/python3.8/site-packages/systemd<module systemd>/usr/lib64/python3.8/site-packages/systemd/__init__.pyKERNEL_USECseek_realtimeCOREDUMP_PIDlevel_prefixmicroseconds__CURSORCOREDUMP_UID<module systemd.journal>Add match for _BOOT_ID for current boot or the specified boot ID.
+
+        If specified, bootid should be either a UUID or a 32 digit hex number.
+
+        Equivalent to add_match(_BOOT_ID='bootid').
+        messageid_matchCOREDUMP_SESSIONReturn the next log entry as a dictionary.
+
+        Entries will be processed with converters specified during Reader
+        creation.
+
+        Optional `skip` value will return the `skip`-th log entry.
+
+        Currently a standard dictionary of fields is returned, but in the
+        future this might be changed to a different mapping type, so the
+        calling code should not make assumptions about a specific type.
+        Return self.
+
+        Part of the iterator protocol.
+        machineidhandleErrorrecordextraspathnamelinenothis_boot_SOURCE_REALTIME_TIMESTAMP_MACHINE_IDget_boot¼%   úFÚMúYú2ú8ÚXÚKÚQÚDÚEÚSÚOú3ÚHÚPÚBÚUúJúVÚAú6ÚIÚLú5ú7Ú0ÚZÚ_Ú1ÚTúGúWúRÚNú4ú9ÚCOS_ROOTReader.add_match.<locals>.<genexpr>Reader._convert_fieldCODE_FUNCInvalid field name: _SOURCE_MONOTONIC_TIMESTAMPJournalHandler.emitlog_levelReader.__next__Reader.this_boottimedeltaCRITICALReturn catalog entry for the specified ID.
+
+    `mid` should be either a UUID or a 32 digit hex number.
+    Reader.this_machineWait for a change in the journal.
+
+        `timeout` is the maximum time in seconds to wait, or None which
+        means to wait forever.
+
+        Returns one of NOP (no change), APPEND (new entries have been added to
+        the end of the journal), or INVALIDATE (journal files have been added or
+        removed).
+        COREDUMP_SIGNALConvert entire journal entry utilising _convert_field.Return a file object wrapping a stream to journal.
+
+    Log messages written to this file as simple newline sepearted text strings
+    are written to the journal.
+
+    The file will be line buffered, so messages are actually sent after a
+    newline character is written.
+
+    >>> from systemd import journal
+    >>> stream = journal.stream('myapp')                       # doctest: +SKIP
+    >>> res = stream.write('message...\n')                     # doctest: +SKIP
+
+    will produce the following message in the journal::
+
+      PRIORITY=7
+      SYSLOG_IDENTIFIER=myapp
+      MESSAGE=message...
+
+    If identifier is None, a suitable default based on sys.argv[0] will be used.
+
+    This interface can be used conveniently with the print function:
+
+    >>> from __future__ import print_function
+    >>> stream = journal.stream()                              # doctest: +SKIP
+    >>> print('message...', file=stream)                       # doctest: +SKIP
+
+    priority is the syslog priority, one of `LOG_EMERG`, `LOG_ALERT`,
+    `LOG_CRIT`, `LOG_ERR`, `LOG_WARNING`, `LOG_NOTICE`, `LOG_INFO`, `LOG_DEBUG`.
+
+    level_prefix is a boolean. If true, kernel-style log priority level prefixes
+    (such as '<1>') are interpreted. See sd-daemon(3) for more information.
+    Add match for log entries with specified `messageid`.
+
+        `messageid` can be string of hexadicimal digits or a UUID
+        instance. Standard message IDs can be found in systemd.id128.
+
+        Equivalent to add_match(MESSAGE_ID=`messageid`).
+        CODE_LINE={:d}_get_realtimeget_nextConvert value using self.converters[key].
+
+        If `key` is not present in self.converters, a standard unicode decoding
+        will be attempted.  If the conversion (either key-specific or the
+        default one) fails with a ValueError, the original bytes object will be
+        returned.
+        _convert_entryReader.seek_monotonicReturn the next entry in the journal.
+
+        Returns self.get_next() or raises StopIteration.
+
+        Part of the iterator protocol.
+        THREAD_NAMEJournalHandler.map_priorityMap logging levels to journald priorities.
+
+        Since Python log level numbers are "sparse", we have to map numbers in
+        between the standard levels too.
+        Access systemd journal entries.
+
+    Entries are subject to filtering and limits, see `add_match`, `this_boot`,
+    `this_machine` functions and the `data_treshold` attribute.
+
+    Note that in order to access the system journal, a non-root user must have
+    the necessary privileges, see journalctl(1) for details.  Unprivileged users
+    can access only their own journal.
+
+    Example usage to print out all informational or higher level messages for
+    systemd-udevd for this boot:
+
+    >>> from systemd import journal
+    >>> j = journal.Reader()
+    >>> j.this_boot()
+    >>> j.log_level(journal.LOG_INFO)
+    >>> j.add_match(_SYSTEMD_UNIT="systemd-udevd.service")
+    >>> for entry in j:                                 # doctest: +SKIP
+    ...    print(entry['MESSAGE'])
+    starting version ...
+
+    See systemd.journal-fields(7) for more info on typical fields found in the
+    journal.
+
+    processNameRUNTIME_ONLYSeek to a matching journal entry nearest to `timestamp` time.
+
+        Argument `realtime` must be either an integer UNIX timestamp (in
+        microseconds since the beginning of the UNIX epoch), or an float UNIX
+        timestamp (in seconds since the beginning of the UNIX epoch), or a
+        datetime.datetime instance. The integer form is deprecated.
+
+        >>> import time
+        >>> from systemd import journal
+
+        >>> yesterday = time.time() - 24 * 60**2
+        >>> j = journal.Reader()
+        >>> j.seek_realtime(yesterday)
+        CODE_ARGSReader.__iter__Reader.query_unique.<locals>.<genexpr>SYSTEM_ONLYINITRD_USECSeek to a matching journal entry nearest to `monotonic` time.
+
+        Argument `monotonic` is a timestamp from boot in either seconds or a
+        datetime.timedelta instance. Argument `bootid` is a string or UUID
+        representing which boot the monotonic time is reference to. Defaults to
+        current bootid.
+        Journal handler class for the Python logging framework.
+
+    Please see the Python logging module documentation for an overview:
+    http://docs.python.org/library/logging.html.
+
+    To create a custom logger whose messages go only to journal:
+
+    >>> import logging
+    >>> log = logging.getLogger('custom_logger_name')
+    >>> log.propagate = False
+    >>> log.addHandler(JournalHandler())
+    >>> log.warning("Some message: %s", 'detail')
+
+    Note that by default, message levels `INFO` and `DEBUG` are ignored by the
+    logging framework. To enable those log levels:
+
+    >>> log.setLevel(logging.DEBUG)
+
+    To redirect all logging messages to journal regardless of where they come
+    from, attach it to the root logger:
+
+    >>> logging.root.addHandler(JournalHandler())
+
+    For more complex configurations when using `dictConfig` or `fileConfig`,
+    specify `systemd.journal.JournalHandler` as the handler class.  Only
+    standard handler configuration options are supported: `level`, `formatter`,
+    `filters`.
+
+    To attach journal MESSAGE_ID, an extra field is supported:
+
+    >>> import uuid
+    >>> mid = uuid.UUID('0123456789ABCDEF0123456789ABCDEF')
+    >>> log.warning("Message with ID", extra={'MESSAGE_ID': mid})
+
+    Fields to be attached to all messages sent through this handler can be
+    specified as keyword arguments. This probably makes sense only for
+    SYSLOG_IDENTIFIER and similar fields which are constant for the whole
+    program:
+
+    >>> JournalHandler(SYSLOG_IDENTIFIER='my-cool-app')
+    <...JournalHandler ...>
+
+    The following journal fields will be sent: `MESSAGE`, `PRIORITY`,
+    `THREAD_NAME`, `CODE_FILE`, `CODE_LINE`, `CODE_FUNC`, `LOGGER` (name as
+    supplied to getLogger call), `MESSAGE_ID` (optional, see above),
+    `SYSLOG_IDENTIFIER` (defaults to sys.argv[0]).
+
+    The function used to actually send messages can be overridden using
+    the `sender_function` parameter.
+    EXCEPTION_INFO__REALTIME_TIMESTAMPReturn a list of unique values appearing in the journal for the given
+        `field`.
+
+        Note this does not respect any journal matches.
+
+        Entries will be processed with converters specified during
+        Reader creation.
+        Return the previous log entry.
+
+        Equivalent to get_next(-skip).
+
+        Optional `skip` value will return the -`skip`-th log entry.
+
+        Entries will be processed with converters specified during Reader
+        creation.
+
+        Currently a standard dictionary of fields is returned, but in the
+        future this might be changed to a different mapping type, so the
+        calling code should not make assumptions about a specific type.
+        extract_stackdivision_SYSTEMD_SESSIONReader._convert_entryCODE_FILE=Reader.__init__CODE_FUNC=_get_monotonic_get_cursorReader.seek_realtimeReader.get_previousthreadName_journalNOTSET_readerCURRENT_USER_SYSTEMD_OWNER_UIDWrite `record` as a journal event.
+
+        MESSAGE is taken from the message provided by the user, and PRIORITY,
+        LOGGER, THREAD_NAME, CODE_{FILE,LINE,FUNC} fields are appended
+        automatically. In addition, record.MESSAGE_ID will be used if present.
+        exc_textLog level must be 0 <= level <= 7_convert_uuidCOREDUMP_GIDAdd match for _MACHINE_ID equal to the ID of this machine.
+
+        If specified, machineid should be either a UUID or a 32 digit hex
+        number.
+
+        Equivalent to add_match(_MACHINE_ID='machineid').
+        Send a message to the journal.
+
+    >>> from systemd import journal
+    >>> journal.send('Hello world')
+    >>> journal.send('Hello, again, world', FIELD2='Greetings!')
+    >>> journal.send('Binary message', BINARY=b'\xde\xad\xbe\xef')
+
+    Value of the MESSAGE argument will be used for the MESSAGE= field. MESSAGE
+    must be a string and will be sent as UTF-8 to the journal.
+
+    MESSAGE_ID can be given to uniquely identify the type of message. It must be
+    a string or a uuid.UUID object.
+
+    CODE_LINE, CODE_FILE, and CODE_FUNC can be specified to identify the caller.
+    Unless at least on of the three is given, values are extracted from the
+    stack frame of the caller of send(). CODE_FILE and CODE_FUNC must be
+    strings, CODE_LINE must be an integer.
+
+    Additional fields for the journal entry can only be specified as keyword
+    arguments. The payload can be either a string or bytes. A string will be
+    sent as UTF-8, and bytes will be sent as-is to the journal.
+
+    Other useful fields include PRIORITY, SYSLOG_FACILITY, SYSLOG_IDENTIFIER,
+    SYSLOG_PID.
+    _extra%s.%fSESSION_IDPROCESS_NAMELEADERReader.get_nextlevelno_AUDIT_SESSION_AUDIT_LOGINUIDfdopenUSERSPACE_USEC/usr/lib64/python3.8/site-packages/systemd/journal.pyCreate a new Reader.
+
+        Argument `flags` defines the open flags of the journal, which can be one
+        of, or ORed combination of constants: LOCAL_ONLY (default) opens journal
+        on local machine only; RUNTIME_ONLY opens only volatile journal files;
+        and SYSTEM_ONLY opens only journal files of system services and the kernel.
+
+        Argument `path` is the directory of journal files, either a file system
+        path or a file descriptor. Note that `flags`, `path`, and `files` are
+        exclusive.
+
+        Argument `converters` is a dictionary which updates the
+        DEFAULT_CONVERTERS to convert journal field values. Field names are used
+        as keys into this dictionary. The values must be single argument
+        functions, which take a `bytes` object and return a converted
+        value. When there's no entry for a field name, then the default UTF-8
+        decoding will be attempted. If the conversion fails with a ValueError,
+        unconverted bytes object will be returned. (Note that ValueEror is a
+        superclass of UnicodeDecodeError).
+
+        Reader implements the context manager protocol: the journal will be
+        closed when exiting the block.
+        JournalHandler.__init__Set maximum log `level` by setting matches for PRIORITY.
+        _get_allReader.messageid_matchsend.<locals>.<genexpr>EXCEPTION_TEXTmapPriorityReader.log_levelReader.wait__MONOTONIC_TIMESTAMPCOREDUMP_TIMESTAMPAdd one or more matches to the filter journal log entries.
+
+        All matches of different field are combined with logical AND, and
+        matches of the same field are automatically combined with logical OR.
+        Matches can be passed as strings of form "FIELD=value", or keyword
+        arguments FIELD="value".
+        ERRNOEXIT_STATUStotal_secondsget_machine              ð?popzipis_ajoinrecvvoid       €      ð¿GEnumdebugdict_throwGBoxedGFlagsdecodeencodeextendgetpidgetuidsocketAF_UNIXSHUT_WR__cmp__abspathacquirecompileduphashisdigitpkgutilsendall<listcomp>__dict____exit____info____main____name____spec___probdirendswithexc_infofromlistfuncNameget_sizekeywordsshutdownstrftime<metaclass>__class____debug____enter____gtype____slots__bytearrayget_proxyModuleType__cached____loader____module___persistedget_g_typeissubclassproblemifysetdefaultsettimeoutstartswithHAVE_POLKITSOCK_STREAM__package____prepare__basicConfigclassmethodcollectionsextend_pathget_methodsget_versionmethod_info__builtins____compiled____qualname__has_locationDBusGMainLoopPROBLEM_TYPES__docformat___initializingfromtimestampget_argumentsget_namespaceimport_module__orig_bases__is_constructorValidationError__annotations____mro_entries__absolute_importinstall_signalsProxyObjectClassreStructuredTextrestructuredtext__class_getitem__require_main_loopenumerate_versionsget_required_versionDEFAULT_DUMP_LOCATIONsubmodule_search_locationstoo many values to unpack (expected 3)
+    Compatibility with report package
+Passing the named_service parameter to add_signal_receiver by name is deprecated: please use positional parametersMethods may not be called on the reserved path %sget_object does not take these keyword arguments: %sPassing the named_service parameter to get_object by name is deprecated: please use positional parameters/usr/bin/pythonbus_name and named_service cannot both be specified/var/run/abrt/abrt.socket%s.__prepare__() must return a mapping, not %s%s argument after ** must be a mapping, not %s/org/freedesktop/problems%s argument after * must be an iterable, not %sutf-8gi.overrides.too many values to unpack (expected 2)%s got multiple values for keyword argument '%s'

@@ -1,24 +1,6 @@
 import os
 import sys
-from time import sleep
-from darkness1commands import * 
-class color: 
-   PURPLE = '\033[95m'  
-   CYAN = '\033[96m'    
-   DARKCYAN = '\033[36m' 
-   BLUE = '\033[94m'
-   GREEN = '\033[92m'
-   YELLOW = '\033[93m'
-   RED = '\033[91m'
-   BOLD = '\033[1m'
-   UNDERLINE = '\033[4m'
-   END = '\033[0m'
-class bg:
-   red = '\033[41m'
-   lightgrey = '\033[47m'
-   black = '\033[40m'
-
-inventory = []
+from commands import * 
 
 def ch1():
     os.system('clear')

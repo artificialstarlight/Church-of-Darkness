@@ -1,16 +1,11 @@
-# Church of Darkness
-
-Church of Darkness is a WIP occult horror puzzle text adventure meant to be played in the
-  terminal of Linux systems.
-
-**Warnings**: Some endings of this game may have flashing lights. 
-              Due to the nature of this game, expect graphic descriptions and 
-                possibly offensive content in terms of religious and cult-like themes.
-             In terms of language and sexually explicit content, however, there is none. 
- 
-
-How to install: Have Python 3 installed and run darkness1.py as a python 
-                  script in the terminal.
-
-Another mild warning: If you're going to look at the code, this was written when I was very new to python. While it works, expect bad coding practices
-and general cringeworthiness.
+# Church of Darkness    
+An occult horror puzzle text adventure made in python.    
+## Warning: Flashing Lights    
+If you have epilepsy or a similar condition, playing this game is probably not a good idea.    
+### Another warning    
+If you're going to look at the code, this was written when I was very new to python. While it works, expect bad coding practices and general cringeworthiness.
+## How to Run:    
+### Windows    
+Right-click `main.bin` then click "Run in Terminal"    
+### \*NIX    
+Open a terminal and run `./main.bin` in the directory.

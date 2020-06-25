@@ -19,6 +19,7 @@ class bg:
 
 inventory = []
 commands = ["look", "use", "examine", "inventory", "run", "pick up", "help"]
+aliases = ["l", "u", "x", "i", "r", "p", "h"]
 
 def pg1():
    print("-------------Page 1-------------")
@@ -58,9 +59,14 @@ def pg5():
    print("All the rest of the pages are blank.")
 def help_command():
    global commands
+   global aliases
    print("Commands:")
    print("")
    print(commands)
+   print("")
+   print("Aliases:")
+   print("")
+   print(aliases)
 def inventory_command():
    global inventory
    if inventory != []:

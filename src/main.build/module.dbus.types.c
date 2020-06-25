@@ -77,8 +77,8 @@ static bool constants_created = false;
 
 /* Function to create module private constants. */
 static void createModuleConstants(void) {
-    const_str_digest_bee3442881305db322ec1ee71f49c522 = UNSTREAM_STRING_ASCII(&constant_bin[ 56725 ], 19, 0);
-    const_str_plain_UnixFd = UNSTREAM_STRING_ASCII(&constant_bin[ 56744 ], 6, 1);
+    const_str_digest_bee3442881305db322ec1ee71f49c522 = UNSTREAM_STRING_ASCII(&constant_bin[ 57665 ], 19, 0);
+    const_str_plain_UnixFd = UNSTREAM_STRING_ASCII(&constant_bin[ 57684 ], 6, 1);
     const_tuple_cde4d3ca5dc75371f7c0953ed8a8aecd_tuple = PyTuple_New(17);
     PyTuple_SET_ITEM(const_tuple_cde4d3ca5dc75371f7c0953ed8a8aecd_tuple, 0, const_str_plain_Array); Py_INCREF(const_str_plain_Array);
     PyTuple_SET_ITEM(const_tuple_cde4d3ca5dc75371f7c0953ed8a8aecd_tuple, 1, const_str_plain_Boolean); Py_INCREF(const_str_plain_Boolean);
@@ -115,7 +115,7 @@ static void createModuleConstants(void) {
     PyList_SET_ITEM(const_list_63dc2697da2db86ddf6a017a29605028_list, 14, const_str_plain_Struct); Py_INCREF(const_str_plain_Struct);
     PyList_SET_ITEM(const_list_63dc2697da2db86ddf6a017a29605028_list, 15, const_str_plain_Dictionary); Py_INCREF(const_str_plain_Dictionary);
     PyList_SET_ITEM(const_list_63dc2697da2db86ddf6a017a29605028_list, 16, const_str_plain_UnixFd); Py_INCREF(const_str_plain_UnixFd);
-    const_str_digest_5fd3871d41b205ced72dcdbe362d3f11 = UNSTREAM_STRING_ASCII(&constant_bin[ 56750 ], 48, 0);
+    const_str_digest_5fd3871d41b205ced72dcdbe362d3f11 = UNSTREAM_STRING_ASCII(&constant_bin[ 57690 ], 48, 0);
 
     constants_created = true;
 }
@@ -1289,7 +1289,7 @@ PyObject *modulecode_dbus$types(PyObject *module, struct Nuitka_MetaPathBasedLoa
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 857 ], 29, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 1034 ], 29, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);

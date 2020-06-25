@@ -3228,6 +3228,7 @@ PyObject *CALL_METHOD_WITH_ARGS4(PyObject *source, PyObject *attr_name, PyObject
  */
 extern PyObject *modulecode___main__(PyObject *, struct Nuitka_MetaPathBasedLoaderEntry const *);
 extern PyObject *modulecode_abrt_exception_handler3(PyObject *, struct Nuitka_MetaPathBasedLoaderEntry const *);
+extern PyObject *modulecode_commands(PyObject *, struct Nuitka_MetaPathBasedLoaderEntry const *);
 extern PyObject *modulecode_dbus(PyObject *, struct Nuitka_MetaPathBasedLoaderEntry const *);
 extern PyObject *modulecode_dbus$_compat(PyObject *, struct Nuitka_MetaPathBasedLoaderEntry const *);
 extern PyObject *modulecode_dbus$_dbus(PyObject *, struct Nuitka_MetaPathBasedLoaderEntry const *);
@@ -3268,6 +3269,7 @@ extern PyObject *modulecode_systemd$journal(PyObject *, struct Nuitka_MetaPathBa
 static struct Nuitka_MetaPathBasedLoaderEntry meta_path_loader_entries[] = {
     {"__main__", modulecode___main__, 0, 0, },
     {"abrt_exception_handler3", modulecode_abrt_exception_handler3, 0, 0, },
+    {"commands", modulecode_commands, 0, 0, },
     {"dbus", modulecode_dbus, 0, 0, NUITKA_PACKAGE_FLAG},
     {"dbus._compat", modulecode_dbus$_compat, 0, 0, },
     {"dbus._dbus", modulecode_dbus$_dbus, 0, 0, },

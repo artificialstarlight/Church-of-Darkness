@@ -46,11 +46,11 @@ static bool constants_created = false;
 
 /* Function to create module private constants. */
 static void createModuleConstants(void) {
-    const_str_digest_0bbbf5cd98a83b589706ca24743e7378 = UNSTREAM_STRING_ASCII(&constant_bin[ 81187 ], 45, 0);
-    const_str_plain__frozen_importlib_external = UNSTREAM_STRING_ASCII(&constant_bin[ 81232 ], 26, 1);
+    const_str_digest_0bbbf5cd98a83b589706ca24743e7378 = UNSTREAM_STRING_ASCII(&constant_bin[ 82127 ], 45, 0);
+    const_str_plain__frozen_importlib_external = UNSTREAM_STRING_ASCII(&constant_bin[ 82172 ], 26, 1);
     const_list_str_digest_0bbbf5cd98a83b589706ca24743e7378_list = PyList_New(1);
     PyList_SET_ITEM(const_list_str_digest_0bbbf5cd98a83b589706ca24743e7378_list, 0, const_str_digest_0bbbf5cd98a83b589706ca24743e7378); Py_INCREF(const_str_digest_0bbbf5cd98a83b589706ca24743e7378);
-    const_str_plain__NamespacePath = UNSTREAM_STRING_ASCII(&constant_bin[ 81258 ], 14, 1);
+    const_str_plain__NamespacePath = UNSTREAM_STRING_ASCII(&constant_bin[ 82198 ], 14, 1);
 
     constants_created = true;
 }

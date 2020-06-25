@@ -134,11 +134,11 @@ static bool constants_created = false;
 
 /* Function to create module private constants. */
 static void createModuleConstants(void) {
-    const_str_plain_comp = UNSTREAM_STRING_ASCII(&constant_bin[ 26497 ], 4, 1);
-    const_str_digest_72c59ad0b3a8aec75a46b62cd5dd728b = UNSTREAM_STRING_ASCII(&constant_bin[ 80475 ], 22, 0);
-    const_str_digest_b2d0a1653b5af1672cfbe7f3cb38e88b = UNSTREAM_STRING_ASCII(&constant_bin[ 80497 ], 123, 0);
-    const_str_digest_dba1471062040150ffbf7ed03f51f70c = UNSTREAM_STRING_ASCII(&constant_bin[ 80620 ], 27, 0);
-    const_str_digest_d24697c673930d75fe1aca791c659f37 = UNSTREAM_STRING_ASCII(&constant_bin[ 80647 ], 33, 0);
+    const_str_plain_comp = UNSTREAM_STRING_ASCII(&constant_bin[ 27437 ], 4, 1);
+    const_str_digest_72c59ad0b3a8aec75a46b62cd5dd728b = UNSTREAM_STRING_ASCII(&constant_bin[ 81415 ], 22, 0);
+    const_str_digest_b2d0a1653b5af1672cfbe7f3cb38e88b = UNSTREAM_STRING_ASCII(&constant_bin[ 81437 ], 123, 0);
+    const_str_digest_dba1471062040150ffbf7ed03f51f70c = UNSTREAM_STRING_ASCII(&constant_bin[ 81560 ], 27, 0);
+    const_str_digest_d24697c673930d75fe1aca791c659f37 = UNSTREAM_STRING_ASCII(&constant_bin[ 81587 ], 33, 0);
     const_tuple_14ad85c7c9b76401ec48cf226f55f7c3_tuple = PyTuple_New(8);
     PyTuple_SET_ITEM(const_tuple_14ad85c7c9b76401ec48cf226f55f7c3_tuple, 0, const_str_plain_self); Py_INCREF(const_str_plain_self);
     PyTuple_SET_ITEM(const_tuple_14ad85c7c9b76401ec48cf226f55f7c3_tuple, 1, const_str_plain_auth); Py_INCREF(const_str_plain_auth);
@@ -146,9 +146,9 @@ static void createModuleConstants(void) {
     PyTuple_SET_ITEM(const_tuple_14ad85c7c9b76401ec48cf226f55f7c3_tuple, 3, const_str_plain_gobject); Py_INCREF(const_str_plain_gobject);
     PyTuple_SET_ITEM(const_tuple_14ad85c7c9b76401ec48cf226f55f7c3_tuple, 4, const_str_plain_DBusGMainLoop); Py_INCREF(const_str_plain_DBusGMainLoop);
     PyTuple_SET_ITEM(const_tuple_14ad85c7c9b76401ec48cf226f55f7c3_tuple, 5, const_str_plain_bus); Py_INCREF(const_str_plain_bus);
-    const_str_plain_evt_match = UNSTREAM_STRING_ASCII(&constant_bin[ 80680 ], 9, 1);
+    const_str_plain_evt_match = UNSTREAM_STRING_ASCII(&constant_bin[ 81620 ], 9, 1);
     PyTuple_SET_ITEM(const_tuple_14ad85c7c9b76401ec48cf226f55f7c3_tuple, 6, const_str_plain_evt_match); Py_INCREF(const_str_plain_evt_match);
-    const_str_plain_evt_match_old_path = UNSTREAM_STRING_ASCII(&constant_bin[ 80689 ], 18, 1);
+    const_str_plain_evt_match_old_path = UNSTREAM_STRING_ASCII(&constant_bin[ 81629 ], 18, 1);
     PyTuple_SET_ITEM(const_tuple_14ad85c7c9b76401ec48cf226f55f7c3_tuple, 7, const_str_plain_evt_match_old_path); Py_INCREF(const_str_plain_evt_match_old_path);
     const_tuple_e2ca65f3276165d546ff9461351dced6_tuple = PyTuple_New(8);
     PyTuple_SET_ITEM(const_tuple_e2ca65f3276165d546ff9461351dced6_tuple, 0, const_str_plain_self); Py_INCREF(const_str_plain_self);
@@ -159,22 +159,22 @@ static void createModuleConstants(void) {
     PyTuple_SET_ITEM(const_tuple_e2ca65f3276165d546ff9461351dced6_tuple, 5, const_str_plain_duphash); Py_INCREF(const_str_plain_duphash);
     PyTuple_SET_ITEM(const_tuple_e2ca65f3276165d546ff9461351dced6_tuple, 6, const_str_plain_prob); Py_INCREF(const_str_plain_prob);
     PyTuple_SET_ITEM(const_tuple_e2ca65f3276165d546ff9461351dced6_tuple, 7, const_str_plain_cb); Py_INCREF(const_str_plain_cb);
-    const_str_digest_9d806eaad66d3756ba04cb4ec720b7d6 = UNSTREAM_STRING_ASCII(&constant_bin[ 80707 ], 23, 0);
-    const_str_plain_add_callback = UNSTREAM_STRING_ASCII(&constant_bin[ 80635 ], 12, 1);
-    const_str_digest_c8c3013b85174ee4c7e95aa9fc093e73 = UNSTREAM_STRING_ASCII(&constant_bin[ 80730 ], 19, 0);
-    const_str_digest_643fe9e7c334d124dd12d07dd04bc6d7 = UNSTREAM_STRING_ASCII(&constant_bin[ 80749 ], 16, 0);
+    const_str_digest_9d806eaad66d3756ba04cb4ec720b7d6 = UNSTREAM_STRING_ASCII(&constant_bin[ 81647 ], 23, 0);
+    const_str_plain_add_callback = UNSTREAM_STRING_ASCII(&constant_bin[ 81575 ], 12, 1);
+    const_str_digest_c8c3013b85174ee4c7e95aa9fc093e73 = UNSTREAM_STRING_ASCII(&constant_bin[ 81670 ], 19, 0);
+    const_str_digest_643fe9e7c334d124dd12d07dd04bc6d7 = UNSTREAM_STRING_ASCII(&constant_bin[ 81689 ], 16, 0);
     const_dict_a4f2d71d9b034fe27739e030391a7c6a = _PyDict_NewPresized( 2 );
-    const_str_plain_Crash = UNSTREAM_STRING_ASCII(&constant_bin[ 80765 ], 5, 1);
+    const_str_plain_Crash = UNSTREAM_STRING_ASCII(&constant_bin[ 81705 ], 5, 1);
     PyDict_SetItem(const_dict_a4f2d71d9b034fe27739e030391a7c6a, const_str_plain_signal_name, const_str_plain_Crash);
     PyDict_SetItem(const_dict_a4f2d71d9b034fe27739e030391a7c6a, const_str_plain_path, const_str_digest_a70d2bed936523093700e5558854519a);
     assert(PyDict_Size(const_dict_a4f2d71d9b034fe27739e030391a7c6a) == 2);
-    const_str_plain_callbacks = UNSTREAM_STRING_ASCII(&constant_bin[ 43280 ], 9, 1);
-    const_str_plain_quit = UNSTREAM_STRING_ASCII(&constant_bin[ 80745 ], 4, 1);
-    const_str_plain_loop = UNSTREAM_STRING_ASCII(&constant_bin[ 8188 ], 4, 1);
-    const_str_digest_168dabde1c45fe2c6a98ec9eae56b3f0 = UNSTREAM_STRING_ASCII(&constant_bin[ 47408 ], 18, 0);
+    const_str_plain_callbacks = UNSTREAM_STRING_ASCII(&constant_bin[ 44220 ], 9, 1);
+    const_str_plain_quit = UNSTREAM_STRING_ASCII(&constant_bin[ 81685 ], 4, 1);
+    const_str_plain_loop = UNSTREAM_STRING_ASCII(&constant_bin[ 8365 ], 4, 1);
+    const_str_digest_168dabde1c45fe2c6a98ec9eae56b3f0 = UNSTREAM_STRING_ASCII(&constant_bin[ 48348 ], 18, 0);
     const_tuple_str_plain_DBusGMainLoop_tuple = PyTuple_New(1);
     PyTuple_SET_ITEM(const_tuple_str_plain_DBusGMainLoop_tuple, 0, const_str_plain_DBusGMainLoop); Py_INCREF(const_str_plain_DBusGMainLoop);
-    const_str_digest_69674f8f0ed7d7d7d2f89a2b85e765b6 = UNSTREAM_STRING_ASCII(&constant_bin[ 80770 ], 27, 0);
+    const_str_digest_69674f8f0ed7d7d7d2f89a2b85e765b6 = UNSTREAM_STRING_ASCII(&constant_bin[ 81710 ], 27, 0);
     const_tuple_str_plain_self_str_plain_fun_tuple = PyTuple_New(2);
     PyTuple_SET_ITEM(const_tuple_str_plain_self_str_plain_fun_tuple, 0, const_str_plain_self); Py_INCREF(const_str_plain_self);
     PyTuple_SET_ITEM(const_tuple_str_plain_self_str_plain_fun_tuple, 1, const_str_plain_fun); Py_INCREF(const_str_plain_fun);
@@ -184,15 +184,15 @@ static void createModuleConstants(void) {
     assert(PyDict_Size(const_dict_214d5d3fa9eae68a8726794127da42a3) == 2);
     const_tuple_str_digest_d24697c673930d75fe1aca791c659f37_tuple = PyTuple_New(1);
     PyTuple_SET_ITEM(const_tuple_str_digest_d24697c673930d75fe1aca791c659f37_tuple, 0, const_str_digest_d24697c673930d75fe1aca791c659f37); Py_INCREF(const_str_digest_d24697c673930d75fe1aca791c659f37);
-    const_str_digest_fc8a5876d3416745601ebf18c127ebfc = UNSTREAM_STRING_ASCII(&constant_bin[ 80797 ], 217, 0);
-    const_str_digest_43d8e4fe59387d69a0785160b55bc74b = UNSTREAM_STRING_ASCII(&constant_bin[ 81014 ], 43, 0);
-    const_str_digest_df675e9e6a3e348cc28010e5ca774d50 = UNSTREAM_STRING_ASCII(&constant_bin[ 81057 ], 18, 0);
-    const_str_digest_7772fb89b733df96f112d88eda9d1ea3 = UNSTREAM_STRING_ASCII(&constant_bin[ 81075 ], 35, 0);
-    const_str_plain__new_problem_handler = UNSTREAM_STRING_ASCII(&constant_bin[ 81090 ], 20, 1);
-    const_str_digest_139042728a95bd87267e6d6c5b2b8245 = UNSTREAM_STRING_ASCII(&constant_bin[ 81110 ], 51, 0);
-    const_str_plain_MainLoop = UNSTREAM_STRING_ASCII(&constant_bin[ 27186 ], 8, 1);
-    const_str_digest_38fb2aa5dde28301dc9b212f510d8ef6 = UNSTREAM_STRING_ASCII(&constant_bin[ 80483 ], 13, 0);
-    const_str_digest_7206f320397eb203421b0c49b1ab89b7 = UNSTREAM_STRING_ASCII(&constant_bin[ 81161 ], 26, 0);
+    const_str_digest_fc8a5876d3416745601ebf18c127ebfc = UNSTREAM_STRING_ASCII(&constant_bin[ 81737 ], 217, 0);
+    const_str_digest_43d8e4fe59387d69a0785160b55bc74b = UNSTREAM_STRING_ASCII(&constant_bin[ 81954 ], 43, 0);
+    const_str_digest_df675e9e6a3e348cc28010e5ca774d50 = UNSTREAM_STRING_ASCII(&constant_bin[ 81997 ], 18, 0);
+    const_str_digest_7772fb89b733df96f112d88eda9d1ea3 = UNSTREAM_STRING_ASCII(&constant_bin[ 82015 ], 35, 0);
+    const_str_plain__new_problem_handler = UNSTREAM_STRING_ASCII(&constant_bin[ 82030 ], 20, 1);
+    const_str_digest_139042728a95bd87267e6d6c5b2b8245 = UNSTREAM_STRING_ASCII(&constant_bin[ 82050 ], 51, 0);
+    const_str_plain_MainLoop = UNSTREAM_STRING_ASCII(&constant_bin[ 28126 ], 8, 1);
+    const_str_digest_38fb2aa5dde28301dc9b212f510d8ef6 = UNSTREAM_STRING_ASCII(&constant_bin[ 81423 ], 13, 0);
+    const_str_digest_7206f320397eb203421b0c49b1ab89b7 = UNSTREAM_STRING_ASCII(&constant_bin[ 82101 ], 26, 0);
 
     constants_created = true;
 }
@@ -975,7 +975,7 @@ static PyObject *impl_problem$watch$$$function_2__new_problem_handler(struct Nui
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 1699 ], 29, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 1876 ], 29, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -1036,7 +1036,7 @@ static PyObject *impl_problem$watch$$$function_2__new_problem_handler(struct Nui
             Py_DECREF(tmp_compexpr_left_1);
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 139 ], 24, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 0 ], 24, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -1135,7 +1135,7 @@ static PyObject *impl_problem$watch$$$function_2__new_problem_handler(struct Nui
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 1699 ], 29, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 1876 ], 29, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -1217,7 +1217,7 @@ static PyObject *impl_problem$watch$$$function_2__new_problem_handler(struct Nui
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 8605 ], 29, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 8782 ], 29, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -1263,7 +1263,7 @@ static PyObject *impl_problem$watch$$$function_2__new_problem_handler(struct Nui
             Py_DECREF(tmp_called_name_2);
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 8605 ], 29, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 8782 ], 29, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);

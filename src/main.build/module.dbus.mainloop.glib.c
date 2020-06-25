@@ -62,17 +62,17 @@ static bool constants_created = false;
 static void createModuleConstants(void) {
     const_tuple_str_plain_DBusGMainLoop_str_plain_gthreads_init_tuple = PyTuple_New(2);
     PyTuple_SET_ITEM(const_tuple_str_plain_DBusGMainLoop_str_plain_gthreads_init_tuple, 0, const_str_plain_DBusGMainLoop); Py_INCREF(const_str_plain_DBusGMainLoop);
-    const_str_plain_gthreads_init = UNSTREAM_STRING_ASCII(&constant_bin[ 2835 ], 13, 1);
+    const_str_plain_gthreads_init = UNSTREAM_STRING_ASCII(&constant_bin[ 3012 ], 13, 1);
     PyTuple_SET_ITEM(const_tuple_str_plain_DBusGMainLoop_str_plain_gthreads_init_tuple, 1, const_str_plain_gthreads_init); Py_INCREF(const_str_plain_gthreads_init);
-    const_str_digest_f10e2ec87b7dc4cd78c14bbcc06032c1 = UNSTREAM_STRING_ASCII(&constant_bin[ 47110 ], 46, 0);
-    const_str_plain__dbus_glib_bindings = UNSTREAM_STRING_ASCII(&constant_bin[ 47156 ], 19, 1);
+    const_str_digest_f10e2ec87b7dc4cd78c14bbcc06032c1 = UNSTREAM_STRING_ASCII(&constant_bin[ 48050 ], 46, 0);
+    const_str_plain__dbus_glib_bindings = UNSTREAM_STRING_ASCII(&constant_bin[ 48096 ], 19, 1);
     const_tuple_str_plain_DBusGMainLoop_str_plain_threads_init_tuple = PyTuple_New(2);
     PyTuple_SET_ITEM(const_tuple_str_plain_DBusGMainLoop_str_plain_threads_init_tuple, 0, const_str_plain_DBusGMainLoop); Py_INCREF(const_str_plain_DBusGMainLoop);
     PyTuple_SET_ITEM(const_tuple_str_plain_DBusGMainLoop_str_plain_threads_init_tuple, 1, const_str_plain_threads_init); Py_INCREF(const_str_plain_threads_init);
-    const_str_digest_013f46d5de7a926b8af625786bceef99 = UNSTREAM_STRING_ASCII(&constant_bin[ 47175 ], 56, 0);
-    const_str_digest_e440ee50d1c3006574b2b526fb1003e1 = UNSTREAM_STRING_ASCII(&constant_bin[ 47231 ], 169, 0);
-    const_str_digest_5aab96487d1936ff2c462fb158533f25 = UNSTREAM_STRING_ASCII(&constant_bin[ 47400 ], 27, 0);
-    const_str_plain__dbus_gthreads_initialized = UNSTREAM_STRING_ASCII(&constant_bin[ 2829 ], 26, 1);
+    const_str_digest_013f46d5de7a926b8af625786bceef99 = UNSTREAM_STRING_ASCII(&constant_bin[ 48115 ], 56, 0);
+    const_str_digest_e440ee50d1c3006574b2b526fb1003e1 = UNSTREAM_STRING_ASCII(&constant_bin[ 48171 ], 169, 0);
+    const_str_digest_5aab96487d1936ff2c462fb158533f25 = UNSTREAM_STRING_ASCII(&constant_bin[ 48340 ], 27, 0);
+    const_str_plain__dbus_gthreads_initialized = UNSTREAM_STRING_ASCII(&constant_bin[ 3006 ], 26, 1);
 
     constants_created = true;
 }
@@ -162,7 +162,7 @@ static PyObject *impl_dbus$mainloop$glib$$$function_1_threads_init(struct Nuitka
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 2823 ], 48, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 3000 ], 48, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);
@@ -206,7 +206,7 @@ static PyObject *impl_dbus$mainloop$glib$$$function_1_threads_init(struct Nuitka
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 2871 ], 35, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 3048 ], 35, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);

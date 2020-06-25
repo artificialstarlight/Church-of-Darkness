@@ -55,10 +55,10 @@ static bool constants_created = false;
 /* Function to create module private constants. */
 static void createModuleConstants(void) {
     const_list_str_digest_aaa19e1ad7b28e1d7c06e731f60df2a2_list = PyList_New(1);
-    const_str_digest_aaa19e1ad7b28e1d7c06e731f60df2a2 = UNSTREAM_STRING_ASCII(&constant_bin[ 82995 ], 42, 0);
+    const_str_digest_aaa19e1ad7b28e1d7c06e731f60df2a2 = UNSTREAM_STRING_ASCII(&constant_bin[ 83935 ], 42, 0);
     PyList_SET_ITEM(const_list_str_digest_aaa19e1ad7b28e1d7c06e731f60df2a2_list, 0, const_str_digest_aaa19e1ad7b28e1d7c06e731f60df2a2); Py_INCREF(const_str_digest_aaa19e1ad7b28e1d7c06e731f60df2a2);
-    const_str_digest_a512e549da921b70c0fe01cb896f27f2 = UNSTREAM_STRING_ASCII(&constant_bin[ 83037 ], 16, 0);
-    const_str_digest_106f27b2596816543d0b20bb31d89a2b = UNSTREAM_STRING_ASCII(&constant_bin[ 83053 ], 54, 0);
+    const_str_digest_a512e549da921b70c0fe01cb896f27f2 = UNSTREAM_STRING_ASCII(&constant_bin[ 83977 ], 16, 0);
+    const_str_digest_106f27b2596816543d0b20bb31d89a2b = UNSTREAM_STRING_ASCII(&constant_bin[ 83993 ], 54, 0);
 
     constants_created = true;
 }
@@ -614,7 +614,7 @@ PyObject *modulecode_systemd(PyObject *module, struct Nuitka_MetaPathBasedLoader
 
             exception_type = PyExc_NameError;
             Py_INCREF(exception_type);
-            exception_value = UNSTREAM_STRING(&constant_bin[ 827 ], 30, 0);
+            exception_value = UNSTREAM_STRING(&constant_bin[ 1004 ], 30, 0);
             exception_tb = NULL;
             NORMALIZE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(exception_value);

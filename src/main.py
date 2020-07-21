@@ -724,7 +724,7 @@ def ch5():
          print("You look around. You notice the shine of metal has moved to")
          print("another place on the floor.")
          lookkey = lookkey + 1
-      elif ans == "look" or ans == "l" and lookkey == 1 and candlesplaced < 3:
+      elif ans == "look" or ans == "l" and lookkey >= 1 and candlesplaced < 3:
          print("You've begun to notice a pattern in the way the key moves.")
          print("The key moves to either one of four places,")
          print("as if there is an imaginary square in the middle of the room")
@@ -771,17 +771,17 @@ def ch5():
          print("You place the white candle in a corner.")
          if "White Candle" in inventory:
             inventory.remove("White Candle")
-         candlesplaced = candlesplaced + 1
+            candlesplaced = candlesplaced + 1
       elif ans == "use black candle" or ans == "u black candle" and candlesplaced < 3:
          print("You place the black candle in a corner.")
          if "Black Candle" in inventory:
             inventory.remove("Black Candle")
-         candlesplaced = candlesplaced + 1
+            candlesplaced = candlesplaced + 1
       elif ans == "use red candle" or ans == "u red candle" and candlesplaced < 3:
          print("You place the red candle in a corner.")
          if "Red Candle" in inventory:
             inventory.remove("Red Candle")
-         candlesplaced = candlesplaced + 1
+            candlesplaced = candlesplaced + 1
       elif ans == "use black candle" or ans == "u black candle" and candlesplaced >= 3:
          print("You don't need to mess with the candles anymore.")
       elif ans == "use white candle" or ans == "u white candle" and candlesplaced >=3:

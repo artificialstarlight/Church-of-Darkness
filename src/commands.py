@@ -106,7 +106,7 @@ def screenflicker():
       print(bg.black + bigspace)
       sleep(0.08)
 def outofmatches():
-   os.system('clear')
+   os.system('cls')
    print("")
    print("You have no more matches.")
    print("You stumble around in the dark, feeling for a wall or a door.")
@@ -117,7 +117,7 @@ def outofmatches():
    print(color.RED + color.BOLD + "BAD END" + color.END)
    sys.exit()
 def burnedout():
-   os.system('clear')
+   os.system('cls')
    print("")
    print("The bible crumbles to ash and the flame dies.")
    print("You are alone, in the dark.")

@@ -3,7 +3,7 @@ import sys
 from commands import * 
 
 def ch1():
-    os.system('clear')
+    os.system('cls')
     print(color.PURPLE + """
 Welcome to Church of Darkness.
 Game created by artificialstarlight, ported to binary by fm'latghor.
@@ -14,7 +14,7 @@ MIT license.
             """
           )
     pressenter = input()
-    os.system('clear')
+    os.system('cls')
     print("It's dark.")
     pressenter = input()
     print("You can type 'help'...")
@@ -674,7 +674,7 @@ def ch5():
       elif ans == "pick up candle" or ans == "pick up candles" or ans == "p candle" or ans == "p candles":
          print("The candles already illuminate the small room just enough to")
          print("see by.")
-         print("There's no reason to move them.")
+         print("There's no reason to move them now.")
       elif ans == "examine box" or ans == "examine black box" or ans == "x box" or ans == "x black box":
          print("The box is locked.")
          print("It shouldn't be too hard to find a key in this small room.")
@@ -701,7 +701,6 @@ def ch5():
    while result == False:
       ans = input(color.PURPLE + ">>> " + color.END)
       ans = ans.lower()
-      ans = ans.lower()
       if ans == "help" or ans == "h":
          help_command()
       elif ans == "inventory" or ans == "i":
@@ -716,15 +715,15 @@ def ch5():
          print("Examine what?")
       elif ans == "examine candle" or ans == "examine candles" or ans == "x candle" or ans == "x candles":
          print("The candles are on a small table in the corner.")
-         print("There's nothing special about them.")
+         print("There is one black, one red, and one white.")
       elif ans == "examine box" or ans == "examine black box" or ans == "x box" or ans == "x black box":
          print("The box is locked.")
          print("It shouldn't be too hard to find a key in this small room.")
-      elif ans == "look" or ans == "l" and lookkey < 1 and candlesplaced < 3:
-         print("You look around. You notice the shine of metal has moved to")
+      elif lookkey < 1 and (ans == "look" or ans == "l") and candlesplaced < 3:
+         print("You look around. You notice the key has moved to")
          print("another place on the floor.")
-         lookkey = lookkey + 1
-      elif ans == "look" or ans == "l" and lookkey >= 1 and candlesplaced < 3:
+         lookkey = 1
+      elif lookkey == 1 and (ans == "look" or ans == "l") and candlesplaced < 3:
          print("You've begun to notice a pattern in the way the key moves.")
          print("The key moves to either one of four places,")
          print("as if there is an imaginary square in the middle of the room")
@@ -735,7 +734,7 @@ def ch5():
       elif ans == "examine table" or ans == "x table":
          print("You walk over to the table in the corner.")
          print("There is a black box under the table.")
-      elif ans == "pick up key" or ans == "p key" and candlesplaced < 3:
+      elif (ans == "pick up key" or ans == "p key") and candlesplaced < 3:
          print("Your fingers go right through it, and it dissapears.")
          print("You realize just how exhausted you are..")
       elif ans == "pick up box" or ans == "p box":
@@ -771,17 +770,17 @@ def ch5():
          print("You place the white candle in a corner.")
          if "White Candle" in inventory:
             inventory.remove("White Candle")
-            candlesplaced = candlesplaced + 1
+         candlesplaced = candlesplaced + 1
       elif ans == "use black candle" or ans == "u black candle" and candlesplaced < 3:
          print("You place the black candle in a corner.")
          if "Black Candle" in inventory:
             inventory.remove("Black Candle")
-            candlesplaced = candlesplaced + 1
+         candlesplaced = candlesplaced + 1
       elif ans == "use red candle" or ans == "u red candle" and candlesplaced < 3:
          print("You place the red candle in a corner.")
          if "Red Candle" in inventory:
             inventory.remove("Red Candle")
-            candlesplaced = candlesplaced + 1
+         candlesplaced = candlesplaced + 1
       elif ans == "use black candle" or ans == "u black candle" and candlesplaced >= 3:
          print("You don't need to mess with the candles anymore.")
       elif ans == "use white candle" or ans == "u white candle" and candlesplaced >=3:
@@ -804,7 +803,6 @@ def ch5():
    while result == False:
       ans = input(color.PURPLE + ">>> " + color.END)
       ans = ans.lower()
-      ans = ans.lower()
       if ans == "help" or ans == "h":
          help_command()
       elif ans == "inventory" or ans == "i":
@@ -824,15 +822,13 @@ def ch5():
          print("There's no need to do that.")
       elif ans == "run" or ans == "r":
          print("You don't see a door.")
-      elif ans == "examine box" or ans == "examine black box" or ans == "x box" or " x black box":
+      elif (ans == "examine box" or ans == "examine black box") or (ans == "x box" or ans == " x black box"):
          print("The box is locked.")
          print("You have a key, don't you?")
       elif ans == "use match" or ans == "use matches" or ans == "u match" or ans == "u matches":
          print("There's no need to do that now.")
       elif ans == "look" or ans == "l":
          print("The candles are on the floor, and the box awaits in the corner.")
-      elif ans == "examine box" or ans == "examine black box":
-         print("The box is locked.")
       elif ans == "pick up box" or ans == "p box":
          print("It's too heavy to pick up.")
       elif ans == "use blade" or ans == "use razor" or ans == "use razor blade" or ans == "u blade" or ans == "u razor" or ans == "u razor blade":
@@ -840,7 +836,7 @@ def ch5():
          print("A voice echos in your head...")
          print("")
          print("It is not yet your time..")
-      elif ans == "use key" or ans == "use key on box" or ans == "u key" or ans == "u key on box":
+      elif (ans == "use key" or ans == "use key on box") or (ans == "u key" or ans == "u key on box"):
          print("You unlock the box.")
          print("Inside, there are several things..")
          print("but on the top of it all is a black leather notebook.")
@@ -966,7 +962,7 @@ def ch6():
          print("The sigil is engraved into the pendant, just as the book said to do.")
       elif ans == "examine chalk" or ans == "x chalk":
          print("White chalk, not in a box but rather wrapped in a black ribbon.")
-      elif ans == "examine dagger" or ans == "examine black handled dagger" or x == "x dagger" or "x black handled dagger":
+      elif ans == "examine dagger" or ans == "examine black handled dagger" or ans == "x dagger" or ans == "x black handled dagger":
          print("It has a plain black handle and a very sharp point.")
       elif ans == "examine bottle" or ans == "examine holy water" or ans == "x bottle" or ans == "x holy water":
          print("It's empty. There's no use for this.")
@@ -982,7 +978,7 @@ def ch6():
          print("Added to Inventory!")
          inventory.append("Necklace")
          pickedupnecklace = True
-      elif pickedupnecklace == True and ans == "use necklace" or ans == "use pendant" or ans == "u necklace" or ans == "u pendant":
+      elif (pickedupnecklace == True and ans == "use necklace") or (ans == "use pendant" or ans == "u necklace" or ans == "u pendant"):
          print("You put the necklace on...")
          print("You suddenly feel calmer.")
          print("Your hands stopped shaking..you didn't even realize they were")
@@ -1010,7 +1006,6 @@ def ch6():
       else:
          print("I cannot accept that answer.")
    result = False
-   pickedupnecklace = False
    while result == False:
       ans = input(color.PURPLE + ">>> " + color.END)
       ans = ans.lower()

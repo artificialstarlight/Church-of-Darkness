@@ -9,3 +9,4 @@ If you're going to look at the code, this was written when I was very new to pyt
 Run `Darkness.exe`
 ### \*NIX    
 Open a terminal and run `./main.bin` in the directory.
+**BINARIES CURRENTLY DO NOT WORK FOR LINUX. THERE'S BUGS.**

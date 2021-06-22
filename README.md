@@ -1,5 +1,5 @@
 # Church of Darkness    
-An occult horror puzzle text adventure made in python.    
+A horror puzzle text adventure made in python.    
 ## Warning: Flashing Lights    
 If you have epilepsy or a similar condition, playing this game is probably not a good idea.    
 ### Another warning    
